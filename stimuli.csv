@@ -1,0 +1,479 @@
+LIST,EXP ORDER,ID,CONDITION,VERB TYPE,BEFORE/AFTER,AUDIO FILE NAME,ITEM
+TOList1,1,FILLER_GOOD_1,FILLER_GOOD,N/A,N/A,FILLER_GOOD_1.wav,A microphone hit the emcee.
+TOList1,2,FILLER_MED_1,FILLER_MED,N/A,N/A,FILLER_MED_1.wav,The motorcycle that we walked home after Eli slept on.
+TOList1,3,PP_SL_1,PP_SL,N/A,N/A,PP_SL_1.wav,The athlete ran toward the gate with the baton that was passed.
+TOList1,4,DECL_TO_enchant,DECL_TO,Stative,N/A,DECL_TO_enchant.wav,The student lit sparklers to enchant the audience.
+TOList1,5,FILLER_BAD_1,FILLER_BAD,N/A,N/A,FILLER_BAD_1.wav,Who are closed a window?
+TOList1,6,DECL_TO_clean,DECL_TO,Active,N/A,DECL_TO_clean.wav,The actor did laundry to clean the stain.
+TOList1,7,PP_LL_1 ,PP_LL,N/A,N/A,PP_LL_1 .wav,The professor talked about the assignment that was late during the videoconference that was long.
+TOList1,8,Q_TO_assist,Q_TO,Active,N/A,Q_TO_assist.wav,Who did the nurse change sheets to assist?
+TOList1,9,DECL_TO_imagine,DECL_TO,Stative,N/A,DECL_TO_imagine.wav,The receptionist tried meditation to imagine the future.
+TOList1,10,PP_LS_1,PP_LS,N/A,N/A,PP_LS_1.wav,The actress competed for the role that was important during the audition.
+TOList1,11,FILLER_GOOD_4,FILLER_GOOD,N/A,N/A,FILLER_GOOD_4.wav,Are all of the children in the room?
+TOList1,12,PP_SS_1,PP_SS,N/A,N/A,PP_SS_1.wav,The swimmer spoke on the phone before the meet.
+TOList1,13,Q_TO_bake,Q_TO,Active,N/A,Q_TO_bake.wav,What did the gardener pick berries to bake?
+TOList1,14,FILLER_BAD_2,FILLER_BAD,N/A,N/A,FILLER_BAD_2.wav,Would the this store is successful?
+TOList1,15,DECL_TO_demonstrate,DECL_TO,Active,N/A,DECL_TO_demonstrate.wav,The guide drank beer to demonstrate the dance.
+TOList1,16,FILLER_MED_2,FILLER_MED,N/A,N/A,FILLER_MED_2.wav,Who conquered a company before a priest could drove to which house?
+TOList1,17,DECL_TO_know,DECL_TO,Stative,N/A,DECL_TO_know.wav,The representative conducted polls to know the plan.
+TOList1,18,PP_LS_2,PP_LS,N/A,N/A,PP_LS_2.wav,The robber escaped from the neighborhood that was peaceful with the jewelry.
+TOList1,19,FILLER_MED_3,FILLER_MED,N/A,N/A,FILLER_MED_3.wav,A violinist donated a warthog.
+TOList1,20,Q_TO_contact,Q_TO,Active,N/A,Q_TO_contact.wav,Who did the author call the office to contact?
+TOList1,21,FILLER_GOOD_3,FILLER_GOOD,N/A,N/A,FILLER_GOOD_3.wav,The teacher says that the course should contain material on the history of Ecuador in the colonial period.
+TOList1,22,PP_LL_2 ,PP_LL,N/A,N/A,PP_LL_2 .wav,The beautician raved about the hairstyle that was trendy to the customer that was curious.
+TOList1,23,DECL_TO_feed,DECL_TO,Active,N/A,DECL_TO_feed.wav,The bookkeeper set the table to feed the boys.
+TOList1,24,FILLER_BAD_3,FILLER_BAD,N/A,N/A,FILLER_BAD_3.wav,A closet traveled a brother.
+TOList1,25,Q_TO_enjoy,Q_TO,Stative,N/A,Q_TO_enjoy.wav,What did the musician order dinner to enjoy?
+TOList1,26,PP_SL_2,PP_SL,N/A,N/A,PP_SL_2.wav,The mom strolled with the kite around the park that was busy.
+TOList1,27,Q_TO_celebrate,Q_TO,Active,N/A,Q_TO_celebrate.wav,What did the grandmother buy shoes to celebrate?
+TOList1,28,FILLER_BAD_6,FILLER_BAD,N/A,N/A,FILLER_BAD_6.wav,A woman that I ran away.
+TOList1,29,PP_SS_2,PP_SS,N/A,N/A,PP_SS_2.wav,The chef cooked with the recipe for the reception.
+TOList1,30,FILLER_MED_4,FILLER_MED,N/A,N/A,FILLER_MED_4.wav,Where is the keychain that we licked the frosting while slipping on?
+TOList1,31,DECL_TO_see,DECL_TO,Stative,N/A,DECL_TO_see.wav,The child watched TV to see the ballerina.
+TOList1,32,PP_LL_3,PP_LL,N/A,N/A,PP_LL_3.wav,The firefighter collapsed against the firetruck that was red after the training that was comprehensive.
+TOList1,33,FILLER_BAD_5,FILLER_BAD,N/A,N/A,FILLER_BAD_5.wav,What does everybody say that Marge saw the books?
+TOList1,34,DECL_TO_entertain,DECL_TO,Active,N/A,DECL_TO_entertain.wav,The clown made a face to entertain the kids.
+TOList1,35,FILLER_GOOD_2,FILLER_GOOD,N/A,N/A,FILLER_GOOD_2.wav,Which advisors think that Bill should drive an electric car when he is in the city?
+TOList1,36,Q_TO_buy,Q_TO,Active,N/A,Q_TO_buy.wav,What did the shopper compare ads to buy?
+TOList1,37,FILLER_MED_5,FILLER_MED,N/A,N/A,FILLER_MED_5.wav,The wagon fought while a nurse fell on.
+TOList1,38,DECL_TO_diagnose,DECL_TO,Active,N/A,DECL_TO_diagnose.wav,The doctor ordered tests to diagnose the problem.
+TOList1,39,PP_LS_3,PP_LS,N/A,N/A,PP_LS_3.wav,The tourist slept on the bed that was small throughout the evening.
+TOList1,40,FILLER_BAD_4,FILLER_BAD,N/A,N/A,FILLER_BAD_4.wav,The keyboard that he touched a cord when looking at.
+TOList1,41,Q_TO_hear,Q_TO,Stative,N/A,Q_TO_hear.wav,Who did the assistant open YouTube to hear?
+TOList1,42,FILLER_GOOD_5,FILLER_GOOD,N/A,N/A,FILLER_GOOD_5.wav,Who wants to eat now?
+TOList1,43,PP_LL_4,PP_LL,N/A,N/A,PP_LL_4.wav,The freshman complained about the grade that was low at the library that was empty.
+TOList1,44,DECL_TO_find,DECL_TO,Active,N/A,DECL_TO_find.wav,The dentist read books to find the story.
+TOList1,45,FILLER_BAD_7,FILLER_BAD,N/A,N/A,FILLER_BAD_7.wav,The students will studied on those bus?
+TOList1,46,Q_TO_impress,Q_TO,Active,N/A,Q_TO_impress.wav,Who did the accountant change jobs to impress?
+TOList1,47,PP_SS_3,PP_SS,N/A,N/A,PP_SS_3.wav,The singer  performed with the microphone  after the wedding.
+TOList1,48,FILLER_MED_10,FILLER_MED,N/A,N/A,FILLER_MED_10.wav,She wondered whether the customer and not the other manager had heard what they said.
+TOList1,49,DECL_TO_help,DECL_TO,Active,N/A,DECL_TO_help.wav,The custodian unlocked the door to help the manager.
+TOList1,50,Q_TO_observe,Q_TO,Stative,N/A,Q_TO_observe.wav,What did the scientist add chemicals to observe?
+TOList1,51,FILLER_GOOD_6,FILLER_GOOD,N/A,N/A,FILLER_GOOD_6.wav,The manager we all saw wasn't there today.
+TOList1,52,PP_SL_3,PP_SL,N/A,N/A,PP_SL_3.wav,The workers rested under the umbrella after the renovation that was difficult.
+TOList1,53,FILLER_BAD_8,FILLER_BAD,N/A,N/A,FILLER_BAD_8.wav,Which child sneezing those field?
+TOList1,54,DECL_TO_smell,DECL_TO,Stative,N/A,DECL_TO_smell.wav,The server lit candles to smell the scent.
+TOList1,55,Q_TO_meet,Q_TO,Active,N/A,Q_TO_meet.wav,Who did the mechanic change classes to meet?
+TOList1,56,PP_SS_4,PP_SS,N/A,N/A,PP_SS_4.wav,The star smiled throughout the show for the camera.
+TOList1,57,DECL_TO_inspire,DECL_TO,Active,N/A,DECL_TO_inspire.wav,The driver won races to inspire the students.
+TOList1,58,FILLER_MED_6,FILLER_MED,N/A,N/A,FILLER_MED_6.wav,Why did you see the wallet that they desired coins before?
+TOList1,59,Q_TO_sell,Q_TO,Active,N/A,Q_TO_sell.wav,What did the clerk play music to sell?
+TOList1,60,DECL_TO_marry,DECL_TO,Active,N/A,DECL_TO_marry.wav,The manager switched religions to marry the librarian.
+TOList1,61,FILLER_BAD_9,FILLER_BAD,N/A,N/A,FILLER_BAD_9.wav,My tent that I earned money after.
+TOList1,62,Q_TO_remember,Q_TO,Stative,N/A,Q_TO_remember.wav,Who did the salesperson take notes to remember?
+TOList1,63,PP_LS_4,PP_LS,N/A,N/A,PP_LS_4.wav,The attorney despaired over the ruling that was unjust after the hearing.
+TOList1,64,FILLER_MED_7,FILLER_MED,N/A,N/A,FILLER_MED_7.wav,Who did the woman who she thought went to the artifice before the other day?
+TOList1,65,PP_SL_4,PP_SL,N/A,N/A,PP_SL_4.wav,The toddler played with the toy in the morning that was bright.
+TOList1,66,FILLER_GOOD_7,FILLER_GOOD,N/A,N/A,FILLER_GOOD_7.wav,What do you think was on the table yesterday?
+TOList1,67,DECL_TO_prepare,DECL_TO,Active,N/A,DECL_TO_prepare.wav,The pilot bought groceries to prepare the dough.
+TOList1,68,Q_TO_interrupt,Q_TO,Active,N/A,Q_TO_interrupt.wav,Who did the grandfather clear his throat to interrupt?
+TOList1,69,FILLER_BAD_10,FILLER_BAD,N/A,N/A,FILLER_BAD_10.wav,A napkin that it spilled milk before an employer.
+TOList1,70,PP_SS_5,PP_SS,N/A,N/A,PP_SS_5.wav,The leader spoke to the audience about the issue.
+TOList1,71,FILLER_MED_8,FILLER_MED,N/A,N/A,FILLER_MED_8.wav,There is no way to be expected by such a person that would think.
+TOList1,72,PP_LL_5,PP_LL,N/A,N/A,PP_LL_5.wav,The comedian hid behind the truck that was old for the prank that was hilarious.
+TOList1,73,Q_TO_win,Q_TO,Active,N/A,Q_TO_win.wav,What did the cook practice running to win?
+TOList1,74,DECL_TO_surprise,DECL_TO,Active,N/A,DECL_TO_surprise.wav,The lawyer wrapped gifts to surprise the trainee.
+TOList1,75,FILLER_GOOD_8,FILLER_GOOD,N/A,N/A,FILLER_GOOD_8.wav,We don't believe that he was there.
+TOList1,76,PP_SL_5,PP_SL,N/A,N/A,PP_SL_5.wav,The girl climbed onto the tree amid the crowd that was watching.
+TOList1,77,FILLER_MED_9,FILLER_MED,N/A,N/A,FILLER_MED_9.wav,The customer mortgaged breakfast.
+TOList1,78,Q_TO_understand,Q_TO,Stative,N/A,Q_TO_understand.wav,What did the teacher watch movies to understand?
+TOList1,79,PP_LS_5,PP_LS,N/A,N/A,PP_LS_5.wav,The researcher looked through the lens that was adjusted at the sky.
+TOList1,80,Q_TO_woo,Q_TO,Active,N/A,Q_TO_woo.wav,Who did the attendant arrange flowers to woo?
+TOList2,1,FILLER_GOOD_1,FILLER_GOOD,N/A,N/A,FILLER_GOOD_1.wav,A microphone hit the emcee.
+TOList2,2,FILLER_BAD_1,FILLER_BAD,N/A,N/A,FILLER_BAD_1.wav,Who are closed a window?
+TOList2,3,PP_SL_6,PP_SL,N/A,N/A,PP_SL_6.wav,The swimmer spoke on the phone before the meet that was important.
+TOList2,4,DECL_TO_woo,DECL_TO,Active,N/A,DECL_TO_woo.wav,The attendant arranged flowers to woo the gardener.
+TOList2,5,PP_LL_6,PP_LL,N/A,N/A,PP_LL_6.wav,The actress competed for the role that was important during the audition that was competitive.
+TOList2,6,Q_TO_smell,Q_TO,Stative,N/A,Q_TO_smell.wav,What did the server light candles to smell?
+TOList2,7,FILLER_MED_1,FILLER_MED,N/A,N/A,FILLER_MED_1.wav,The motorcycle that we walked home after Eli slept on.
+TOList2,8,Q_TO_inspire,Q_TO,Active,N/A,Q_TO_inspire.wav,Who did the driver win races to inspire?
+TOList2,9,DECL_TO_interrupt,DECL_TO,Active,N/A,DECL_TO_interrupt.wav,The grandfather cleared his throat to interrupt the manager.
+TOList2,10,PP_LS_6,PP_LS,N/A,N/A,PP_LS_6.wav,The athlete ran toward the gate that was distant with the baton.
+TOList2,11,FILLER_GOOD_2,FILLER_GOOD,N/A,N/A,FILLER_GOOD_2.wav,Which advisors think that Bill should drive an electric car when he is in the city?
+TOList2,12,Q_TO_surprise,Q_TO,Active,N/A,Q_TO_surprise.wav,Who did the lawyer wrap gifts to surprise?
+TOList2,13,PP_SS_6,PP_SS,N/A,N/A,PP_SS_6.wav,The professor talked about the assignment during the videoconference.
+TOList2,14,FILLER_BAD_2,FILLER_BAD,N/A,N/A,FILLER_BAD_2.wav,Would the this store is successful?
+TOList2,15,DECL_TO_hear,DECL_TO,Stative,N/A,DECL_TO_hear.wav,The assistant opened YouTube to hear the singer.
+TOList2,16,FILLER_MED_2,FILLER_MED,N/A,N/A,FILLER_MED_2.wav,Who conquered a company before a priest could drove to which house?
+TOList2,17,DECL_TO_meet,DECL_TO,Active,N/A,DECL_TO_meet.wav,The mechanic changed classes to meet the engineer.
+TOList2,18,PP_LS_7,PP_LS,N/A,N/A,PP_LS_7.wav,The mom strolled with the kite that was colorful around the park.
+TOList2,19,FILLER_MED_3,FILLER_MED,N/A,N/A,FILLER_MED_3.wav,A violinist donated a warthog.
+TOList2,20,Q_TO_imagine,Q_TO,Stative,N/A,Q_TO_imagine.wav,What did the receptionist try meditation to imagine?
+TOList2,21,PP_LL_7,PP_LL,N/A,N/A,PP_LL_7.wav,The robber escaped from the neighborhood that was peaceful with the jewelry that was expensive.
+TOList2,22,FILLER_GOOD_7,FILLER_GOOD,N/A,N/A,FILLER_GOOD_7.wav,What do you think was on the table yesterday?
+TOList2,23,Q_TO_prepare,Q_TO,Active,N/A,Q_TO_prepare.wav,What did the pilot buy groceries to prepare?
+TOList2,24,FILLER_BAD_3,FILLER_BAD,N/A,N/A,FILLER_BAD_3.wav,A closet traveled a brother.
+TOList2,25,DECL_TO_remember,DECL_TO,Stative,N/A,DECL_TO_remember.wav,The salesperson took notes to remember the thief.
+TOList2,26,PP_SL_7,PP_SL,N/A,N/A,PP_SL_7.wav,The chef cooked with the recipe for the reception that was lively.
+TOList2,27,Q_TO_diagnose,Q_TO,Active,N/A,Q_TO_diagnose.wav,What did the doctor order tests to diagnose?
+TOList2,28,FILLER_BAD_4,FILLER_BAD,N/A,N/A,FILLER_BAD_4.wav,The keyboard that he touched a cord when looking at.
+TOList2,29,DECL_TO_win,DECL_TO,Active,N/A,DECL_TO_win.wav,The cook practiced running to win the race.
+TOList2,30,FILLER_MED_4,FILLER_MED,N/A,N/A,FILLER_MED_4.wav,Where is the keychain that we licked the frosting while slipping on?
+TOList2,31,PP_SS_7,PP_SS,N/A,N/A,PP_SS_7.wav,The beautician raved about the hairstyle to the customer.
+TOList2,32,DECL_TO_understand,DECL_TO,Stative,N/A,DECL_TO_understand.wav,The teacher watched movies to understand the book.
+TOList2,33,FILLER_BAD_5,FILLER_BAD,N/A,N/A,FILLER_BAD_5.wav,What does everybody say that Marge saw the books?
+TOList2,34,PP_LL_8,PP_LL,N/A,N/A,PP_LL_8.wav,The tourist slept on the bed that was small throughout the evening that was hot.
+TOList2,35,FILLER_GOOD_4,FILLER_GOOD,N/A,N/A,FILLER_GOOD_4.wav,Are all of the children in the room?
+TOList2,36,Q_TO_help,Q_TO,Active,N/A,Q_TO_help.wav,Who did the custodian unlock the door to help?
+TOList2,37,FILLER_MED_10,FILLER_MED,N/A,N/A,FILLER_MED_10.wav,She wondered whether the customer and not the other manager had heard what they said
+TOList2,38,DECL_TO_celebrate,DECL_TO,Active,N/A,DECL_TO_celebrate.wav,The grandmother bought shoes to celebrate the win.
+TOList2,39,PP_LS_8,PP_LS,N/A,N/A,PP_LS_8.wav,The workers rested under the umbrella that was large after the renovation.
+TOList2,40,FILLER_BAD_6,FILLER_BAD,N/A,N/A,FILLER_BAD_6.wav,A woman that I ran away.
+TOList2,41,Q_TO_demonstrate,Q_TO,Active,N/A,Q_TO_demonstrate.wav,What did the guide drink beer to demonstrate?
+TOList2,42,FILLER_GOOD_5,FILLER_GOOD,N/A,N/A,FILLER_GOOD_5.wav,Who wants to eat now?
+TOList2,43,PP_LL_9,PP_LL,N/A,N/A,PP_LL_9.wav,The attorney despaired over the ruling that was unjust after the hearing that was delayed.
+TOList2,44,DECL_TO_contact,DECL_TO,Active,N/A,DECL_TO_contact.wav,The author called the office to contact the publisher.
+TOList2,45,FILLER_BAD_7,FILLER_BAD,N/A,N/A,FILLER_BAD_7.wav,The students will studied on those bus?
+TOList2,46,Q_TO_enchant,Q_TO,Stative,N/A,Q_TO_enchant.wav,Who did the student light sparklers to enchant?
+TOList2,47,PP_SS_8,PP_SS,N/A,N/A,PP_SS_8.wav,The firefighter collapsed against the firetruck after the training.
+TOList2,48,FILLER_MED_5,FILLER_MED,N/A,N/A,FILLER_MED_5.wav,The wagon fought while a nurse fell on.
+TOList2,49,Q_TO_marry,Q_TO,Active,N/A,Q_TO_marry.wav,Who did the manager switch religions to marry?
+TOList2,50,DECL_TO_bake,DECL_TO,Active,N/A,DECL_TO_bake.wav,The gardener picked berries to bake the pies.
+TOList2,51,FILLER_GOOD_6,FILLER_GOOD,N/A,N/A,FILLER_GOOD_6.wav,The manager we all saw wasn't there today.
+TOList2,52,Q_TO_feed,Q_TO,Active,N/A,Q_TO_feed.wav,Who did the bookkeeper set the table to feed?
+TOList2,53,FILLER_BAD_8,FILLER_BAD,N/A,N/A,FILLER_BAD_8.wav,Which child sneezing those field?
+TOList2,54,PP_SL_8,PP_SL,N/A,N/A,PP_SL_8.wav,The singer  performed with the microphone  after the wedding that was beautiful.
+TOList2,55,DECL_TO_sell,DECL_TO,Active,N/A,DECL_TO_sell.wav,The clerk played music to sell the piano.
+TOList2,56,PP_SS_9,PP_SS,N/A,N/A,PP_SS_9.wav,The freshman complained about the grade at the library.
+TOList2,57,Q_TO_entertain,Q_TO,Active,N/A,Q_TO_entertain.wav,Who did the clown make a face to entertain?
+TOList2,58,FILLER_MED_6,FILLER_MED,N/A,N/A,FILLER_MED_6.wav,Why did you see the wallet that they desired coins before?
+TOList2,59,DECL_TO_observe,DECL_TO,Stative,N/A,DECL_TO_observe.wav,The scientist added chemicals to observe the reaction.
+TOList2,60,PP_LS_9,PP_LS,N/A,N/A,PP_LS_9.wav,The toddler played with the toy that was loud in the morning.
+TOList2,61,FILLER_BAD_9,FILLER_BAD,N/A,N/A,FILLER_BAD_9.wav,My tent that I earned money after.
+TOList2,62,DECL_TO_buy,DECL_TO,Active,N/A,DECL_TO_buy.wav,The shopper compared ads to buy the tablet.
+TOList2,63,Q_TO_see,Q_TO,Stative,N/A,Q_TO_see.wav,Who did the child watch TV to see?
+TOList2,64,FILLER_MED_7,FILLER_MED,N/A,N/A,FILLER_MED_7.wav,Who did the woman who she thought went to the artifice before the other day?
+TOList2,65,PP_SL_9,PP_SL,N/A,N/A,PP_SL_9.wav,The star smiled throughout the show for the camera that was rolling.
+TOList2,66,FILLER_GOOD_3,FILLER_GOOD,N/A,N/A,FILLER_GOOD_3.wav,The teacher says that the course should contain material on the history of Ecuador in the colonial period.
+TOList2,67,Q_TO_clean,Q_TO,Active,N/A,Q_TO_clean.wav,What did the actor do laundry to clean?
+TOList2,68,DECL_TO_enjoy,DECL_TO,Stative,N/A,DECL_TO_enjoy.wav,The musician ordered dinner to enjoy the wine.
+TOList2,69,FILLER_BAD_10,FILLER_BAD,N/A,N/A,FILLER_BAD_10.wav,A napkin that it spilled milk before an employer.
+TOList2,70,PP_SS_10,PP_SS,N/A,N/A,PP_SS_10.wav,The comedian hid behind the truck for the prank.
+TOList2,71,FILLER_MED_8,FILLER_MED,N/A,N/A,FILLER_MED_8.wav,There is no way to be expected by such a person that would think.
+TOList2,72,PP_LL_10,PP_LL,N/A,N/A,PP_LL_10.wav,The researcher looked through the lens that was adjusted at the sky that was darkening.
+TOList2,73,DECL_TO_assist,DECL_TO,Active,N/A,DECL_TO_assist.wav,The nurse changed sheets to assist the doctor.
+TOList2,74,Q_TO_find,Q_TO,Active,N/A,Q_TO_find.wav,What did the dentist read books to find?
+TOList2,75,FILLER_GOOD_8,FILLER_GOOD,N/A,N/A,FILLER_GOOD_8.wav,We don't believe that he was there.
+TOList2,76,PP_SL_10,PP_SL,N/A,N/A,PP_SL_10.wav,The leader spoke to the audience about the issue that was pressing.
+TOList2,77,FILLER_MED_9,FILLER_MED,N/A,N/A,FILLER_MED_9.wav,The customer mortgaged breakfast
+TOList2,78,DECL_TO_impress,DECL_TO,Active,N/A,DECL_TO_impress.wav,The accountant changed jobs to impress the CEO.
+TOList2,79,PP_LS_10,PP_LS,N/A,N/A,PP_LS_10.wav,The girl climbed onto the tree that was tall amid the crowd.
+TOList2,80,Q_TO_know,Q_TO,Stative,N/A,Q_TO_know.wav,What did the representative conduct polls to know?
+INGList1,1,FILLER_GOOD_1,FILLER_GOOD,N/A,N/A,FILLER_GOOD_1.wav,A microphone hit the emcee.
+INGList1,2,FILLER_MED_1,FILLER_MED,N/A,N/A,FILLER_MED_1.wav,The motorcycle that we walked home after Eli slept on.
+INGList1,3,PP_SL_11,PP_SL,N/A,N/A,PP_SL_11.wav,The professor talked about the assignment during the videoconference that was long.
+INGList1,4,DECL_ING_bake,DECL_ING,Active,BEFORE,DECL_ING_bake.wav,The gardener picked berries before baking the pies.
+INGList1,5,PP_LL_11 ,PP_LL,N/A,N/A,PP_LL_11 .wav,The athlete ran toward the gate that was distant with the baton that was passed.
+INGList1,6,Q_ING_remember,Q_ING,Stative,AFTER,Q_ING_remember.wav,Who did the salesperson take notes after remembering?
+INGList1,7,FILLER_BAD_1,FILLER_BAD,N/A,N/A,FILLER_BAD_1.wav,Who are closed a window?
+INGList1,8,Q_ING_contact,Q_ING,Active,AFTER,Q_ING_contact.wav,Who did the author call the office after contacting?
+INGList1,9,DECL_ING_win,DECL_ING,Active,BEFORE,DECL_ING_win.wav,The cook practiced running before winning the race.
+INGList1,10,PP_LS_11,PP_LS,N/A,N/A,PP_LS_11.wav,The swimmer spoke on the phone that was new before the meet.
+INGList1,11,FILLER_GOOD_2,FILLER_GOOD,N/A,N/A,FILLER_GOOD_2.wav,Which advisors think that Bill should drive an electric car when he is in the city?
+INGList1,12,PP_SS_11,PP_SS,N/A,N/A,PP_SS_11.wav,The actress competed for the role during the audition.
+INGList1,13,Q_ING_entertain,Q_ING,Active,BEFORE,Q_ING_entertain.wav,Who did the clown make a face before entertaining?
+INGList1,14,FILLER_BAD_2,FILLER_BAD,N/A,N/A,FILLER_BAD_2.wav,Would the this store is successful?
+INGList1,15,DECL_ING_clean,DECL_ING,Active,AFTER,DECL_ING_clean.wav,The actor did laundry after cleaning the stain.
+INGList1,16,FILLER_MED_2,FILLER_MED,N/A,N/A,FILLER_MED_2.wav,Who conquered a company before a priest could drove to which house?
+INGList1,17,DECL_ING_enjoy,DECL_ING,Stative,BEFORE,DECL_ING_enjoy.wav,The musician ordered dinner before enjoying the wine.
+INGList1,18,PP_LS_12,PP_LS,N/A,N/A,PP_LS_12.wav,The chef cooked with the recipe that was famous for the reception.
+INGList1,19,FILLER_MED_3,FILLER_MED,N/A,N/A,FILLER_MED_3.wav,A violinist donated a warthog.
+INGList1,20,Q_ING_impress,Q_ING,Active,AFTER,Q_ING_impress.wav,Who did the accountant change jobs after impressing?
+INGList1,21,FILLER_GOOD_3,FILLER_GOOD,N/A,N/A,FILLER_GOOD_3.wav,The teacher says that the course should contain material on the history of Ecuador in the colonial period.
+INGList1,22,PP_LL_12 ,PP_LL,N/A,N/A,PP_LL_12 .wav,The mom strolled with the kite that was colorful around the park that was busy.
+INGList1,23,DECL_ING_demonstrate,DECL_ING,Active,AFTER,DECL_ING_demonstrate.wav,The guide drank beer after demonstrating the dance.
+INGList1,24,FILLER_BAD_3,FILLER_BAD,N/A,N/A,FILLER_BAD_3.wav,A closet traveled a brother.
+INGList1,25,Q_ING_help,Q_ING,Active,BEFORE,Q_ING_help.wav,Who did the custodian unlock the door before helping?
+INGList1,26,PP_SL_12,PP_SL,N/A,N/A,PP_SL_12.wav,The beautician raved about the hairstyle to the customer that was curious.
+INGList1,27,DECL_ING_assist,DECL_ING,Active,BEFORE,DECL_ING_assist.wav,The nurse changed sheets before assisting the doctor.
+INGList1,28,FILLER_BAD_4,FILLER_BAD,N/A,N/A,FILLER_BAD_4.wav,The keyboard that he touched a cord when looking at.
+INGList1,29,PP_SS_12,PP_SS,N/A,N/A,PP_SS_12.wav,The robber escaped from the neighborhood with the jewelry.
+INGList1,30,FILLER_MED_4,FILLER_MED,N/A,N/A,FILLER_MED_4.wav,Where is the keychain that we licked the frosting while slipping on?
+INGList1,31,DECL_ING_smell,DECL_ING,Stative,AFTER,DECL_ING_smell.wav,The server lit candles after smelling the scent.
+INGList1,32,Q_ING_interrupt,Q_ING,Active,AFTER,Q_ING_interrupt.wav,Who did the grandfather clear his throat after interrupting?
+INGList1,33,FILLER_BAD_5,FILLER_BAD,N/A,N/A,FILLER_BAD_5.wav,What does everybody say that Marge saw the books?
+INGList1,34,PP_LL_13 ,PP_LL,N/A,N/A,PP_LL_13 .wav,The workers rested under the umbrella that was large after the renovation that was difficult.
+INGList1,35,FILLER_GOOD_4,FILLER_GOOD,N/A,N/A,FILLER_GOOD_4.wav,Are all of the children in the room?
+INGList1,36,DECL_ING_buy,DECL_ING,Active,BEFORE,DECL_ING_buy.wav,The shopper compared ads before buying the tablet.
+INGList1,37,FILLER_MED_10,FILLER_MED,N/A,N/A,FILLER_MED_10.wav,She wondered whether the customer and not the other manager had heard what they said
+INGList1,38,Q_ING_enchant,Q_ING,Stative,BEFORE,Q_ING_enchant.wav,Who did the student light sparklers before enchanting?
+INGList1,39,PP_LS_13,PP_LS,N/A,N/A,PP_LS_13.wav,The singer  performed with the microphone  that was wireless after the wedding.
+INGList1,40,FILLER_BAD_6,FILLER_BAD,N/A,N/A,FILLER_BAD_6.wav,A woman that I ran away.
+INGList1,41,Q_ING_meet,Q_ING,Active,AFTER,Q_ING_meet.wav,Who did the mechanic change classes after meeting?
+INGList1,42,FILLER_GOOD_5,FILLER_GOOD,N/A,N/A,FILLER_GOOD_5.wav,Who wants to eat now?
+INGList1,43,PP_LL_14 ,PP_LL,N/A,N/A,PP_LL_14 .wav,The toddler played with the toy that was loud in the morning that was bright.
+INGList1,44,DECL_ING_imagine,DECL_ING,Stative,AFTER,DECL_ING_imagine.wav,The receptionist tried meditation after imagining the future.
+INGList1,45,FILLER_BAD_7,FILLER_BAD,N/A,N/A,FILLER_BAD_7.wav,The students will studied on those bus?
+INGList1,46,Q_ING_feed,Q_ING,Active,BEFORE,Q_ING_feed.wav,Who did the bookkeeper set the table before feeding?
+INGList1,47,PP_SS_13,PP_SS,N/A,N/A,PP_SS_13.wav,The tourist slept on the bed throughout the evening.
+INGList1,48,FILLER_MED_5,FILLER_MED,N/A,N/A,FILLER_MED_5.wav,The wagon fought while a nurse fell on.
+INGList1,49,DECL_ING_diagnose,DECL_ING,Active,AFTER,DECL_ING_diagnose.wav,The doctor ordered tests after diagnosing the problem.
+INGList1,50,Q_ING_hear,Q_ING,Stative,AFTER,Q_ING_hear.wav,Who did the assistant open YouTube after hearing?
+INGList1,51,FILLER_GOOD_6,FILLER_GOOD,N/A,N/A,FILLER_GOOD_6.wav,The manager we all saw wasn't there today.
+INGList1,52,PP_SL_13,PP_SL,N/A,N/A,PP_SL_13.wav,The firefighter collapsed against the firetruck after the training that was comprehensive.
+INGList1,53,FILLER_BAD_8,FILLER_BAD,N/A,N/A,FILLER_BAD_8.wav,Which child sneezing those field?
+INGList1,54,Q_ING_surprise,Q_ING,Active,BEFORE,Q_ING_surprise.wav,Who did the lawyer wrap gifts before surprising?
+INGList1,55,DECL_ING_find,DECL_ING,Active,AFTER,DECL_ING_find.wav,The dentist read books after finding the story.
+INGList1,56,PP_SS_14,PP_SS,N/A,N/A,PP_SS_14.wav,The attorney despaired over the ruling after the hearing.
+INGList1,57,DECL_ING_understand,DECL_ING,Stative,BEFORE,DECL_ING_understand.wav,The teacher watched movies before understanding the book.
+INGList1,58,FILLER_MED_6,FILLER_MED,N/A,N/A,FILLER_MED_6.wav,Why did you see the wallet that they desired coins before?
+INGList1,59,Q_ING_woo,Q_ING,Active,AFTER,Q_ING_woo.wav,Who did the attendant arrange flowers after wooing?
+INGList1,60,DECL_ING_celebrate,DECL_ING,Active,BEFORE,DECL_ING_celebrate.wav,The grandmother bought shoes before celebrating the win.
+INGList1,61,FILLER_BAD_9,FILLER_BAD,N/A,N/A,FILLER_BAD_9.wav,My tent that I earned money after.
+INGList1,62,PP_LS_14,PP_LS,N/A,N/A,PP_LS_14.wav,The star smiled throughout the show that was popular for the camera.
+INGList1,63,Q_ING_see,Q_ING,Stative,BEFORE,Q_ING_see.wav,Who did the child watch TV before seeing?
+INGList1,64,FILLER_MED_7,FILLER_MED,N/A,N/A,FILLER_MED_7.wav,Who did the woman who she thought went to the artifice before the other day?
+INGList1,65,PP_SL_14,PP_SL,N/A,N/A,PP_SL_14.wav,The freshman complained about the grade at the library that was empty.
+INGList1,66,FILLER_GOOD_7,FILLER_GOOD,N/A,N/A,FILLER_GOOD_7.wav,What do you think was on the table yesterday?
+INGList1,67,DECL_ING_know,DECL_ING,Stative,AFTER,DECL_ING_know.wav,The representative conducted polls after knowing the plan.
+INGList1,68,Q_ING_marry,Q_ING,Active,BEFORE,Q_ING_marry.wav,Who did the manager switch religions before marrying?
+INGList1,69,FILLER_BAD_10,FILLER_BAD,N/A,N/A,FILLER_BAD_10.wav,A napkin that it spilled milk before an employer.
+INGList1,70,PP_SS_15,PP_SS,N/A,N/A,PP_SS_15.wav,The researcher looked through the lens at the sky.
+INGList1,71,FILLER_MED_8,FILLER_MED,N/A,N/A,FILLER_MED_8.wav,There is no way to be expected by such a person that would think.
+INGList1,72,PP_LL_15 ,PP_LL,N/A,N/A,PP_LL_15 .wav,The girl climbed onto the tree that was tall amid the crowd that was watching.
+INGList1,73,DECL_ING_prepare,DECL_ING,Active,AFTER,DECL_ING_prepare.wav,The pilot bought groceries after preparing the dough.
+INGList1,74,Q_ING_inspire,Q_ING,Active,BEFORE,Q_ING_inspire.wav,Who did the driver win races before inspiring?
+INGList1,75,FILLER_GOOD_8,FILLER_GOOD,N/A,N/A,FILLER_GOOD_8.wav,We don't believe that he was there.
+INGList1,76,PP_SL_15,PP_SL,N/A,N/A,PP_SL_15.wav,The comedian hid behind the truck for the prank that was hilarious.
+INGList1,77,FILLER_MED_9,FILLER_MED,N/A,N/A,FILLER_MED_9.wav,The customer mortgaged breakfast
+INGList1,78,DECL_ING_observe,DECL_ING,Stative,BEFORE,DECL_ING_observe.wav,The scientist added chemicals before observing the reaction.
+INGList1,79,PP_LS_15,PP_LS,N/A,N/A,PP_LS_15.wav,The leader spoke to the audience that was present about the issue.
+INGList1,80,Q_ING_sell,Q_ING,Active,AFTER,Q_ING_sell.wav,What did the clerk play music after selling?
+INGList2,1,FILLER_GOOD_1,FILLER_GOOD,N/A,N/A,FILLER_GOOD_1.wav,A microphone hit the emcee.
+INGList2,2,FILLER_MED_1,FILLER_MED,N/A,N/A,FILLER_MED_1.wav,The motorcycle that we walked home after Eli slept on.
+INGList2,3,PP_SL_16,PP_SL,N/A,N/A,PP_SL_16.wav,The actress competed for the role during the audition that was competitive.
+INGList2,4,DECL_ING_inspire,DECL_ING,Active,BEFORE,DECL_ING_inspire.wav,The driver won races before inspiring the students
+INGList2,5,PP_LL_16 ,PP_LL,N/A,N/A,PP_LL_16 .wav,The swimmer spoke on the phone that was new before the meet that was important.
+INGList2,6,Q_ING_know,Q_ING,Stative,AFTER,Q_ING_know.wav,What did the representative conduct polls after knowing?
+INGList2,7,FILLER_BAD_1,FILLER_BAD,N/A,N/A,FILLER_BAD_1.wav,Who are closed a window?
+INGList2,8,Q_ING_demonstrate,Q_ING,Active,AFTER,Q_ING_demonstrate.wav,What did the guide drink beer after demonstrating?
+INGList2,9,DECL_ING_interrupt,DECL_ING,Active,AFTER,DECL_ING_interrupt.wav,The grandfather cleared his throat after interrupting the manager.
+INGList2,10,PP_LS_16,PP_LS,N/A,N/A,PP_LS_16.wav,The professor talked about the assignment that was late during the videoconference.
+INGList2,11,FILLER_GOOD_2,FILLER_GOOD,N/A,N/A,FILLER_GOOD_2.wav,Which advisors think that Bill should drive an electric car when he is in the city?
+INGList2,12,PP_SS_16,PP_SS,N/A,N/A,PP_SS_16.wav,The athlete ran toward the gate with the baton.
+INGList2,13,Q_ING_prepare,Q_ING,Active,AFTER,Q_ING_prepare.wav,What did the pilot buy groceries after preparing?
+INGList2,14,FILLER_BAD_2,FILLER_BAD,N/A,N/A,FILLER_BAD_2.wav,Would the this store is successful?
+INGList2,15,DECL_ING_surprise,DECL_ING,Active,BEFORE,DECL_ING_surprise.wav,The lawyer wrapped gifts before surprising the trainee.
+INGList2,16,FILLER_MED_2,FILLER_MED,N/A,N/A,FILLER_MED_2.wav,Who conquered a company before a priest could drove to which house?
+INGList2,17,DECL_ING_enchant,DECL_ING,Stative,BEFORE,DECL_ING_enchant.wav,The student lit sparklers before enchanting the audience.
+INGList2,18,PP_LS_17,PP_LS,N/A,N/A,PP_LS_17.wav,The beautician raved about the hairstyle that was trendy to the customer.
+INGList2,19,FILLER_MED_3,FILLER_MED,N/A,N/A,FILLER_MED_3.wav,A violinist donated a warthog.
+INGList2,20,Q_ING_diagnose,Q_ING,Active,AFTER,Q_ING_diagnose.wav,What did the doctor order tests after diagnosing?
+INGList2,21,FILLER_GOOD_3,FILLER_GOOD,N/A,N/A,FILLER_GOOD_3.wav,The teacher says that the course should contain material on the history of Ecuador in the colonial period.
+INGList2,22,PP_LL_17 ,PP_LL,N/A,N/A,PP_LL_17 .wav,The chef cooked with the recipe that was famous for the reception that was lively.
+INGList2,23,DECL_ING_sell,DECL_ING,Active,AFTER,DECL_ING_sell.wav,The clerk played music after selling the piano.
+INGList2,24,FILLER_BAD_3,FILLER_BAD,N/A,N/A,FILLER_BAD_3.wav,A closet traveled a brother.
+INGList2,25,Q_ING_celebrate,Q_ING,Active,BEFORE,Q_ING_celebrate.wav,What did the grandmother buy shoes before celebrating?
+INGList2,26,PP_SL_17,PP_SL,N/A,N/A,PP_SL_17.wav,The robber escaped from the neighborhood with the jewelry that was expensive.
+INGList2,27,DECL_ING_woo,DECL_ING,Active,AFTER,DECL_ING_woo.wav,The attendant arranged flowers after wooing the gardener.
+INGList2,28,FILLER_BAD_4,FILLER_BAD,N/A,N/A,FILLER_BAD_4.wav,The keyboard that he touched a cord when looking at.
+INGList2,29,PP_SS_17,PP_SS,N/A,N/A,PP_SS_17.wav,The mom strolled with the kite around the park.
+INGList2,30,FILLER_MED_4,FILLER_MED,N/A,N/A,FILLER_MED_4.wav,Where is the keychain that we licked the frosting while slipping on?
+INGList2,31,DECL_ING_see,DECL_ING,Stative,BEFORE,DECL_ING_see.wav,The child watched TV before seeing the ballerina.
+INGList2,32,Q_ING_find,Q_ING,Active,AFTER,Q_ING_find.wav,What did the dentist read books after finding?
+INGList2,33,FILLER_BAD_5,FILLER_BAD,N/A,N/A,FILLER_BAD_5.wav,What does everybody say that Marge saw the books?
+INGList2,34,PP_LL_18 ,PP_LL,N/A,N/A,PP_LL_18 .wav,The singer  performed with the microphone  that was wireless after the wedding that was beautiful.
+INGList2,35,FILLER_GOOD_4,FILLER_GOOD,N/A,N/A,FILLER_GOOD_4.wav,Are all of the children in the room?
+INGList2,36,Q_ING_observe,Q_ING,Stative,BEFORE,Q_ING_observe.wav,What did the scientist add chemicals before observing?
+INGList2,37,FILLER_MED_10,FILLER_MED,N/A,N/A,FILLER_MED_10.wav,She wondered whether the customer and not the other manager had heard what they said
+INGList2,38,DECL_ING_help,DECL_ING,Active,BEFORE,DECL_ING_help.wav,The custodian unlocked the door before helping the manager.
+INGList2,39,PP_LS_18,PP_LS,N/A,N/A,PP_LS_18.wav,The firefighter collapsed against the firetruck that was red after the training.
+INGList2,40,FILLER_BAD_6,FILLER_BAD,N/A,N/A,FILLER_BAD_6.wav,A woman that I ran away.
+INGList2,41,Q_ING_win,Q_ING,Active,BEFORE,Q_ING_win.wav,What did the cook practice running before winning?
+INGList2,42,FILLER_GOOD_5,FILLER_GOOD,N/A,N/A,FILLER_GOOD_5.wav,Who wants to eat now?
+INGList2,43,PP_LL_19 ,PP_LL,N/A,N/A,PP_LL_19 .wav,The star smiled throughout the show that was popular for the camera that was rolling.
+INGList2,44,DECL_ING_hear,DECL_ING,Stative,AFTER,DECL_ING_hear.wav,The assistant opened YouTube after hearing the singer.
+INGList2,45,FILLER_BAD_7,FILLER_BAD,N/A,N/A,FILLER_BAD_7.wav,The students will studied on those bus?
+INGList2,46,Q_ING_bake,Q_ING,Active,BEFORE,Q_ING_bake.wav,What did the gardener pick berries before baking?
+INGList2,47,PP_SS_18,PP_SS,N/A,N/A,PP_SS_18.wav,The workers rested under the umbrella after the renovation.
+INGList2,48,FILLER_MED_5,FILLER_MED,N/A,N/A,FILLER_MED_5.wav,The wagon fought while a nurse fell on.
+INGList2,49,DECL_ING_marry,DECL_ING,Active,BEFORE,DECL_ING_marry.wav,The manager switched religions before marrying the librarian.
+INGList2,50,Q_ING_clean,Q_ING,Active,AFTER,Q_ING_clean.wav,What did the actor do laundry after cleaning?
+INGList2,51,FILLER_GOOD_6,FILLER_GOOD,N/A,N/A,FILLER_GOOD_6.wav,The manager we all saw wasn't there today.
+INGList2,52,PP_SL_18,PP_SL,N/A,N/A,PP_SL_18.wav,The tourist slept on the bed throughout the evening that was hot.
+INGList2,53,FILLER_BAD_8,FILLER_BAD,N/A,N/A,FILLER_BAD_8.wav,Which child sneezing those field?
+INGList2,54,Q_ING_smell,Q_ING,Stative,AFTER,Q_ING_smell.wav,What did the server light candles after smelling?
+INGList2,55,DECL_ING_entertain,DECL_ING,Active,BEFORE,DECL_ING_entertain.wav,The clown made a face before entertaining the kids.
+INGList2,56,PP_SS_19,PP_SS,N/A,N/A,PP_SS_19.wav,The toddler played with the toy in the morning.
+INGList2,57,Q_ING_buy,Q_ING,Active,BEFORE,Q_ING_buy.wav,What did the shopper compare ads before buying?
+INGList2,58,FILLER_MED_6,FILLER_MED,N/A,N/A,FILLER_MED_6.wav,Why did you see the wallet that they desired coins before?
+INGList2,59,PP_SL_19,PP_SL,N/A,N/A,PP_SL_19.wav,The attorney despaired over the ruling after the hearing that was delayed.
+INGList2,60,DECL_ING_remember,DECL_ING,Stative,AFTER,DECL_ING_remember.wav,The salesperson took notes after remembering the thief.
+INGList2,61,FILLER_BAD_9,FILLER_BAD,N/A,N/A,FILLER_BAD_9.wav,My tent that I earned money after.
+INGList2,62,PP_LS_19,PP_LS,N/A,N/A,PP_LS_19.wav,The freshman complained about the grade that was low at the library.
+INGList2,63,DECL_ING_feed,DECL_ING,Active,BEFORE,DECL_ING_feed.wav,The bookkeeper set the table before feeding the boys.
+INGList2,64,FILLER_MED_7,FILLER_MED,N/A,N/A,FILLER_MED_7.wav,Who did the woman who she thought went to the artifice before the other day?
+INGList2,65,Q_ING_assist,Q_ING,Active,BEFORE,Q_ING_assist.wav,Who did the nurse change sheets before assisting?
+INGList2,66,FILLER_GOOD_7,FILLER_GOOD,N/A,N/A,FILLER_GOOD_7.wav,What do you think was on the table yesterday?
+INGList2,67,Q_ING_understand,Q_ING,Stative,BEFORE,Q_ING_understand.wav,What did the teacher watch movies before understanding?
+INGList2,68,DECL_ING_meet,DECL_ING,Active,AFTER,DECL_ING_meet.wav,The mechanic changed classes after meeting the engineer.
+INGList2,69,FILLER_BAD_10,FILLER_BAD,N/A,N/A,FILLER_BAD_10.wav,A napkin that it spilled milk before an employer.
+INGList2,70,PP_SS_20,PP_SS,N/A,N/A,PP_SS_20.wav,The girl climbed onto the tree amid the crowd.
+INGList2,71,FILLER_MED_8,FILLER_MED,N/A,N/A,FILLER_MED_8.wav,There is no way to be expected by such a person that would think.
+INGList2,72,PP_LL_20 ,PP_LL,N/A,N/A,PP_LL_20 .wav,The leader spoke to the audience that was present about the issue that was pressing.
+INGList2,73,Q_ING_enjoy,Q_ING,Stative,BEFORE,Q_ING_enjoy.wav,What did the musician order dinner before enjoying?
+INGList2,74,FILLER_GOOD_8,FILLER_GOOD,N/A,N/A,FILLER_GOOD_8.wav,We don't believe that he was there.
+INGList2,75,DECL_ING_contact,DECL_ING,Active,AFTER,DECL_ING_contact.wav,The author called the office after contacting the publisher.
+INGList2,76,PP_SL_20,PP_SL,N/A,N/A,PP_SL_20.wav,The researcher looked through the lens at the sky that was darkening.
+INGList2,77,FILLER_MED_9,FILLER_MED,N/A,N/A,FILLER_MED_9.wav,The customer mortgaged breakfast
+INGList2,78,DECL_ING_impress,DECL_ING,Active,AFTER,DECL_ING_impress.wav,The accountant changed jobs after impressing the CEO.
+INGList2,79,PP_LS_20,PP_LS,N/A,N/A,PP_LS_20.wav,The comedian hid behind the truck that was old for the prank.
+INGList2,80,Q_ING_imagine,Q_ING,Stative,AFTER,Q_ING_imagine.wav,What did the receptionist try meditation after imagining?
+WHILEList1,1,filler_d_25,FILLER,N/A,N/A,filler_d_25.wav,The violinist donated a violin to the orchestra.
+WHILEList1,2,filler_d_1,FILLER,N/A,N/A,filler_d_1.wav,The children came her house for a party.
+WHILEList1,3,while_arranged_D,DECL_WHILE,N/A,N/A,while_arranged_D.wav,The florist arranged flowers while impressing the gardener.
+WHILEList1,4,filler_q_46,FILLER,N/A,N/A,filler_q_46.wav,When did you see the wallet the kids discovered?
+WHILEList1,5,while_prepared_D,DECL_WHILE,N/A,N/A,while_prepared_D.wav,The nurse prepared IVs while assisting the doctor.
+WHILEList1,6,filler_d_10,FILLER,N/A,N/A,filler_d_10.wav,The building was taller than the signs was.
+WHILEList1,7,while_changed_D,DECL_WHILE,N/A,N/A,while_changed_D.wav,The man changed diets while dating a new person.
+WHILEList1,8,filler_d_26,FILLER,N/A,N/A,filler_d_26.wav,The professor said that the course contains materials on the colonial period.
+WHILEList1,9,filler_q_15,FILLER,N/A,N/A,filler_q_15.wav,What did the hairdresser drink beer and?
+WHILEList1,10,while_buy_Q,Q_WHILE,N/A,N/A,while_buy_Q.wav,Who did the son buy gifts while surprising?
+WHILEList1,11,filler_d_12,FILLER,N/A,N/A,filler_d_12.wav,The position was expected Fred to get.
+WHILEList1,12,while_order_Q,Q_WHILE,N/A,N/A,while_order_Q.wav,What did the friends order tea while eating?
+WHILEList1,13,filler_q_22,FILLER,N/A,N/A,filler_q_22.wav,Who didn't the boxer why they came?
+WHILEList1,14,while_compared_D,D_WHILE,N/A,N/A,while_compared_D.wav,The shopper compared prices while buying the tablet.
+WHILEList1,15,while_switch_Q  ,Q_WHILE,N/A,N/A,while_switch_Q .wav,Who did the employee switch jobs while upsetting?
+WHILEList1,16,filler_d_2,FILLER,N/A,N/A,filler_d_2.wav,The roommate explained her the ending of the movie.
+WHILEList1,17,filler_q_38,FILLER,N/A,N/A,filler_q_38.wav,Who made this store as successful as the original one?
+WHILEList1,18,filler_d_41,FILLER,N/A,N/A,filler_d_41.wav,The wagon flipped and a nurse fell off.
+WHILEList1,19,while_did_D,DECL_WHILE,N/A,N/A,while_did_D.wav,The cleaner did laundry while soaking the stain.
+WHILEList1,20,filler_d_4,FILLER,N/A,N/A,filler_d_4.wav,The fireflies in the backyard seemed sleeping.
+WHILEList1,21,while_conduct_Q,Q_WHILE,N/A,N/A,while_conduct_Q.wav,What did the politician conduct polls while having?
+WHILEList1,22,filler_q_48,FILLER,N/A,N/A,filler_q_48.wav,Who did the customer exchange breakfast to?
+WHILEList1,23,while_requested_D,DECL_WHILE,N/A,N/A,while_requested_D.wav,The doctor requested tests while diagnosing the problem.
+WHILEList1,24,filler_q_40,FILLER,N/A,N/A,filler_q_40.wav,Why does everybody say that Marge saw the books?
+WHILEList1,25,while_watch_Q,Q_WHILE,N/A,N/A,while_watch_Q.wav,What did the librarian watch movies while remembering?
+WHILEList1,26,filler_d_27,FILLER,N/A,N/A,filler_d_27.wav,The baby spilled milk in front of his mother.
+WHILEList1,27,while_have_Q,Q_WHILE,N/A,N/A,while_have_Q.wav,Who did the musician have dinner while meeting?
+WHILEList1,28,filler_d_42,FILLER,N/A,N/A,filler_d_42.wav,The keyboard that he touched when looking at cords.
+WHILEList1,29,filler_q_35,FILLER,N/A,N/A,filler_q_35.wav,Where is the keychain that we dropped car while listening to music?
+WHILEList1,30,while_viewed_D,DECL_WHILE,N/A,N/A,while_viewed_D.wav,The child viewed the show while using her phone.
+WHILEList1,31,filler_q_36,FILLER,N/A,N/A,filler_q_36.wav,Which friends think that Bill should drive into the city?
+WHILEList1,32,filler_d_31,FILLER,N/A,N/A,filler_d_31.wav,The microphone fell and hit an audience member on the head.
+WHILEList1,33,filler_d_43,FILLER,N/A,N/A,filler_d_43.wav,The motorcycle that we passed after Eli kicked.
+WHILEList1,34,while_make_Q,Q_WHILE,N/A,N/A,while_make_Q.wav,Who did the clown make faces while entertaining?
+WHILEList1,35,while_opened_D,DECL_WHILE,N/A,N/A,while_opened_D.wav,The teenager opened YouTube while attending a lecture.
+WHILEList1,36,filler_q_17,FILLER,N/A,N/A,filler_q_17.wav,What was there a horse that ran away from?
+WHILEList1,37,while_picked_D,DECL_WHILE,N/A,N/A,while_picked_D.wav,The gardener picked berries while clearing the weeds.
+WHILEList1,38,filler_d_44,FILLER,N/A,N/A,filler_d_44.wav,There is no expectation by such a person that would think that.
+WHILEList1,39,while_call_Q,Q_WHILE,N/A,N/A,while_call_Q.wav,What did the author call home while reading?
+WHILEList1,40,filler_d_8,FILLER,N/A,N/A,filler_d_8.wav,The relative sent there a package addressed to her son.
+WHILEList1,41,filler_q_30,FILLER,N/A,N/A,filler_q_30.wav,Who are all of the school children in the classroom?
+WHILEList1,42,while_burned_D,DECL_WHILE,N/A,N/A,while_burned_D.wav,The server burned candles while smelling the scent.
+WHILEList1,43,filler_d_6,FILLER,N/A,N/A,filler_d_6.wav,The afraid pet stayed in their room.
+WHILEList1,44,while_play_Q,Q_WHILE,N/A,N/A,while_play_Q.wav,Who did the owner play music while seating?
+WHILEList1,45,filler_q_20,FILLER,N/A,N/A,filler_q_20.wav,Who didn't she care why called?
+WHILEList1,46,filler_d_11,FILLER,N/A,N/A,filler_d_11.wav,The freshman was eager to read quickly the book.
+WHILEList1,47,filler_q_37,FILLER,N/A,N/A,filler_q_37.wav,Who closed the window that Maria was looking through?
+WHILEList1,48,while_ran_D,DECL_WHILE,N/A,N/A,while_ran_D.wav,The coach ran practice while timing the athletes.
+WHILEList1,49,filler_q_23,FILLER,N/A,N/A,filler_q_23.wav,Who do you like the poem that wrote?
+WHILEList1,50,filler_d_33,FILLER,N/A,N/A,filler_d_33.wav,We don't believe that he was there.
+WHILEList1,51,while_unlock_Q,Q_WHILE,N/A,N/A,while_unlock_Q.wav,Who did the custodian unlock the door while admitting?
+WHILEList1,52,filler_d_7,FILLER,N/A,N/A,filler_d_7.wav,The soccer player kicked hard the ball across the yard.
+WHILEList1,53,while_add_Q,Q_WHILE,N/A,N/A,while_add_Q.wav,Who did the scientist add chemicals while observing?
+WHILEList1,54,filler_d_9,FILLER,N/A,N/A,filler_d_9.wav,The chef shared the hamburger to Brad.
+WHILEList1,55,filler_q_19,FILLER,N/A,N/A,filler_q_19.wav,Who did Anna tell Sam that wrote books?
+WHILEList1,56,while_set_D,DECL_WHILE,N/A,N/A,while_set_D.wav,The hostess set the table while seating the boys.
+WHILEList1,57,filler_q_34,FILLER,N/A,N/A,filler_q_34.wav,What do you think was on the table yesterday?
+WHILEList1,58,filler_q_18,FILLER,N/A,N/A,filler_q_18.wav,Which elderly did you invite woman to the party?
+WHILEList1,59,filler_d_28,FILLER,N/A,N/A,filler_d_28.wav,The person was someone that I ran away from.
+WHILEList1,60,while_read_Q,Q_WHILE,N/A,N/A,while_read_Q.wav,What did the mother read books while drinking?
+WHILEList1,61,filler_q_21,FILLER,N/A,N/A,filler_q_21.wav,Who was she going to invite him if he apologized to?
+WHILEList1,62,while_found_D,DECL_WHILE,N/A,N/A,while_found_D.wav,The grandmother found gifts while scanning the isles.
+WHILEList1,63,filler_d_32,FILLER,N/A,N/A,filler_d_32.wav,The manager we all saw wasn't there today.
+WHILEList1,64,filler_q_13,FILLER,N/A,N/A,filler_q_13.wav,What did Seth bake a cake and sell?
+WHILEList1,65,filler_d_29,FILLER,N/A,N/A,filler_d_29.wav,The worker wondered whether the customer had heard what she said.
+WHILEList1,66,while_purchase_Q,Q_WHILE,N/A,N/A,while_purchase_Q.wav,What did the father purchased groceries while planning?
+WHILEList1,67,filler_q_16,FILLER,N/A,N/A,filler_q_16.wav,What did the students eat sandwiches after watching?
+WHILEList1,68,while_tried_D,DECL_WHILE,N/A,N/A,while_tried_D.wav,The woman tried meditation while imagining the beach.
+WHILEList1,69,filler_q_47,FILLER,N/A,N/A,filler_q_47.wav,Who took over a company before the employee could drove?
+WHILEList1,70,filler_q_24,FILLER,N/A,N/A,filler_q_24.wav,Who did Zach invite his friends before studying for the test?
+WHILEList1,71,while_lit_D,DECL_WHILE,N/A,N/A,while_lit_D.wav,The student lit sparklers while enchanting the audience.
+WHILEList1,72,filler_d_3,FILLER,N/A,N/A,filler_d_3.wav,The entertainer forced that the show would close.
+WHILEList1,73,while_clear_Q,Q_WHILE,N/A,N/A,while_clear_Q.wav,Who did the grandfather clear his throat while interrupting?
+WHILEList1,74,filler_q_39,FILLER,N/A,N/A,filler_q_39.wav,Who wants to eat breakfast together tomorrow morning?
+WHILEList1,75,while_won_D,DECL_WHILE,N/A,N/A,while_won_D.wav,The driver won races while paying the crew.
+WHILEList1,76,filler_q_14,FILLER,N/A,N/A,filler_q_14.wav,What did she wonder whether the bottle would crack?
+WHILEList1,77,while_drink_Q,Q_WHILE,N/A,N/A,while_drink_Q.wav,Who did the comedian drink beer while fearing?
+WHILEList1,78,filler_d_5,FILLER,N/A,N/A,filler_d_5.wav,The band marched the stairs up in a hurry.
+WHILEList1,79,filler_q_45,FILLER,N/A,N/A,filler_q_45.wav,What did the woman who she thought went to the park say?
+WHILEList2,1,filler_d_25,FILLER,N/A,N/A,filler_d_25.wav,The violinist donated a violin to the orchestra.
+WHILEList2,2,filler_d_1,FILLER,N/A,N/A,filler_d_1.wav,The children came her house for a party.
+WHILEList2,3,while_bought_D,DECL_WHILE,N/A,N/A,while_bought_D.wav,The son bought gifts while surprising his family.
+WHILEList2,4,filler_q_46,FILLER,N/A,N/A,filler_q_46.wav,When did you see the wallet the kids discovered?
+WHILEList2,5,while_had_D,DECL_WHILE,N/A,N/A,while_had_D.wav,The musician had dinner while meeting the conductor.
+WHILEList2,6,filler_d_10,FILLER,N/A,N/A,filler_d_10.wav,The building was taller than the signs was.
+WHILEList2,7,while_arrange_Q,Q_WHILE,N/A,N/A,while_arrange_Q.wav,Who did the florist arrange flowers while impressing?
+WHILEList2,8,filler_d_26,FILLER,N/A,N/A,filler_d_26.wav,The professor said that the course contains materials on the colonial period.
+WHILEList2,9,filler_q_15,FILLER,N/A,N/A,filler_q_15.wav,What did the hairdresser drink beer and?
+WHILEList2,10,while_purchased_D,DECL_WHILE,N/A,N/A,while_purchased_D.wav,The father purchased groceries while planning the meals.
+WHILEList2,11,filler_d_12,FILLER,N/A,N/A,filler_d_12.wav,The position was expected Fred to get.
+WHILEList2,12,while_burn_Q,Q_WHILE,N/A,N/A,while_burn_Q.wav,What did the server burn candles while smelling?
+WHILEList2,13,filler_q_22,FILLER,N/A,N/A,filler_q_22.wav,Who didn't the boxer why they came?
+WHILEList2,14,while_read_D,DECL_WHILE,N/A,N/A,while_read_D.wav,The mother read books while drinking coffee.
+WHILEList2,15,while_win_Q,Q_WHILE,N/A,N/A,while_win_Q.wav,Who did the driver win races while paying?
+WHILEList2,16,filler_d_2,FILLER,N/A,N/A,filler_d_2.wav,The roommate explained her the ending of the movie.
+WHILEList2,17,filler_q_38,FILLER,N/A,N/A,filler_q_38.wav,Who made this store as successful as the original one?
+WHILEList2,18,filler_d_41,FILLER,N/A,N/A,filler_d_41.wav,The wagon flipped and a nurse fell off.
+WHILEList2,19,while_added_D,DECL_WHILE,N/A,N/A,while_added_D.wav,The scientist added chemicals while observing the intern.
+WHILEList2,20,filler_d_4,FILLER,N/A,N/A,filler_d_4.wav,The fireflies in the backyard seemed sleeping.
+WHILEList2,21,while_change_Q,Q_WHILE,N/A,N/A,while_change_Q.wav,Who did the man change diets while dating?
+WHILEList2,22,filler_q_48,FILLER,N/A,N/A,filler_q_48.wav,Who did the customer exchange breakfast to?
+WHILEList2,23,while_unlock_D,DECL_WHILE,N/A,N/A,while_unlock_D.wav,The custodian unlocked the door while admitting the manager.
+WHILEList2,24,filler_q_40,FILLER,N/A,N/A,filler_q_40.wav,Why does everybody say that Marge saw the books?
+WHILEList2,25,while_light_Q,Q_WHILE,N/A,N/A,while_light_Q.wav,Who did the student light sparklers while enchanting?
+WHILEList2,26,filler_d_27,FILLER,N/A,N/A,filler_d_27.wav,The baby spilled milk in front of his mother.
+WHILEList2,27,while_set_Q,Q_WHILE,N/A,N/A,while_set_Q.wav,Who did the hostess set the table while seating?
+WHILEList2,28,filler_d_42,FILLER,N/A,N/A,filler_d_42.wav,The keyboard that he touched when looking at cords.
+WHILEList2,29,filler_q_35,FILLER,N/A,N/A,filler_q_35.wav,Where is the keychain that we dropped car while listening to music?
+WHILEList2,30,while_made_D,DECL_WHILE,N/A,N/A,while_made_D.wav,The clown made faces while entertaining the kids.
+WHILEList2,31,filler_q_36,FILLER,N/A,N/A,filler_q_36.wav,Which friends think that Bill should drive into the city?
+WHILEList2,32,filler_d_31,FILLER,N/A,N/A,filler_d_31.wav,The microphone fell and hit an audience member on the head.
+WHILEList2,33,filler_d_43,FILLER,N/A,N/A,filler_d_43.wav,The motorcycle that we passed after Eli kicked.
+WHILEList2,34,while_pick_Q,Q_WHILE,N/A,N/A,while_pick_Q.wav,What did the gardener pick berries while clearing?
+WHILEList2,35,while_ordered_D,DECL_WHILE,N/A,N/A,while_ordered_D.wav,The friends ordered tea while eating lunch.
+WHILEList2,36,filler_q_17,FILLER,N/A,N/A,filler_q_17.wav,What was there a horse that ran away from?
+WHILEList2,37,while_called_D,DECL_WHILE,N/A,N/A,while_called_D.wav,The author called home while reading the e-mail.
+WHILEList2,38,filler_d_44,FILLER,N/A,N/A,filler_d_44.wav,There is no expectation by such a person that would think that.
+WHILEList2,39,while_compare_Q,Q_WHILE,N/A,N/A,while_compare_Q.wav,What did the shopper compare prices while buying?
+WHILEList2,40,filler_d_8,FILLER,N/A,N/A,filler_d_8.wav,The relative sent there a package addressed to her son.
+WHILEList2,41,filler_q_30,FILLER,N/A,N/A,filler_q_30.wav,Who are all of the school children in the classroom?
+WHILEList2,42,while_drank_D,DECL_WHILE,N/A,N/A,while_drank_D.wav,The comedian drank beer while fearing the crowd.
+WHILEList2,43,filler_d_6,FILLER,N/A,N/A,filler_d_6.wav,The afraid pet stayed in their room.
+WHILEList2,44,while_view_Q,Q_WHILE,N/A,N/A,while_view_Q.wav,What did the child view the show while using?
+WHILEList2,45,filler_q_20,FILLER,N/A,N/A,filler_q_20.wav,Who didn't she care why called?
+WHILEList2,46,filler_d_11,FILLER,N/A,N/A,filler_d_11.wav,The freshman was eager to read quickly the book.
+WHILEList2,47,filler_q_37,FILLER,N/A,N/A,filler_q_37.wav,Who closed the window that Maria was looking through?
+WHILEList2,48,while_played_D,DECL_WHILE,N/A,N/A,while_played_D.wav,The owner played music while seating the guests.
+WHILEList2,49,filler_q_23,FILLER,N/A,N/A,filler_q_23.wav,Who do you like the poem that wrote?
+WHILEList2,50,filler_d_33,FILLER,N/A,N/A,filler_d_33.wav,We don't believe that he was there.
+WHILEList2,51,while_find_Q,Q_WHILE,N/A,N/A,while_find_Q.wav,What did the grandmother find gifts while scanning?
+WHILEList2,52,filler_d_7,FILLER,N/A,N/A,filler_d_7.wav,The soccer player kicked hard the ball across the yard.
+WHILEList2,53,while_do_Q,Q_WHILE,N/A,N/A,while_do_Q.wav,What did the cleaner do laundry while soaking?
+WHILEList2,54,filler_d_9,FILLER,N/A,N/A,filler_d_9.wav,The chef shared the hamburger to Brad.
+WHILEList2,55,filler_q_19,FILLER,N/A,N/A,filler_q_19.wav,Who did Anna tell Sam that wrote books?
+WHILEList2,56,while_cleared_D,DECL_WHILE,N/A,N/A,while_cleared_D.wav,The grandfather cleared his throat while interrupting the speaker.
+WHILEList2,57,filler_q_34,FILLER,N/A,N/A,filler_q_34.wav,What do you think was on the table yesterday?
+WHILEList2,58,filler_q_18,FILLER,N/A,N/A,filler_q_18.wav,Which elderly did you invite woman to the party?
+WHILEList2,59,filler_d_28,FILLER,N/A,N/A,filler_d_28.wav,The person was someone that I ran away from.
+WHILEList2,60,while_try_Q,Q_WHILE,N/A,N/A,while_try_Q.wav,What did the woman try meditation while imagining?
+WHILEList2,61,filler_q_21,FILLER,N/A,N/A,filler_q_21.wav,Who was she going to invite him if he apologized to?
+WHILEList2,62,while_watched_D,DECL_WHILE,N/A,N/A,while_watched_D.wav,The librarian watched movies while remembering the books.
+WHILEList2,63,filler_d_32,FILLER,N/A,N/A,filler_d_32.wav,The manager we all saw wasn't there today.
+WHILEList2,64,filler_q_13,FILLER,N/A,N/A,filler_q_13.wav,What did Seth bake a cake and sell?
+WHILEList2,65,filler_d_29,FILLER,N/A,N/A,filler_d_29.wav,The worker wondered whether the customer had heard what she said.
+WHILEList2,66,while_run_Q,Q_WHILE,N/A,N/A,while_run_Q.wav,Who did the coach run practice while timing?
+WHILEList2,67,filler_q_16,FILLER,N/A,N/A,filler_q_16.wav,What did the students eat sandwiches after watching?
+WHILEList2,68,while_revised_D,DECL_WHILE,N/A,N/A,while_revised_D.wav,The teacher revised the slides while giving a lecture.
+WHILEList2,69,filler_q_47,FILLER,N/A,N/A,filler_q_47.wav,Who took over a company before the employee could drove?
+WHILEList2,70,filler_q_24,FILLER,N/A,N/A,filler_q_24.wav,Who did Zach invite his friends before studying for the test?
+WHILEList2,71,while_switched_D,DECL_WHILE,N/A,N/A,while_switched_D.wav,The employee switched jobs while upsetting the CEO.
+WHILEList2,72,filler_d_3,FILLER,N/A,N/A,filler_d_3.wav,The entertainer forced that the show would close.
+WHILEList2,73,while_open_Q,Q_WHILE,N/A,N/A,while_open_Q.wav,What did the teenager open YouTube while attending?
+WHILEList2,74,filler_q_39,FILLER,N/A,N/A,filler_q_39.wav,Who wants to eat breakfast together tomorrow morning?
+WHILEList2,75,while_conducted_D,DECL_WHILE,N/A,N/A,while_conducted_D.wav,The politician conducted polls while having a plan.
+WHILEList2,76,filler_q_14,FILLER,N/A,N/A,filler_q_14.wav,What did she wonder whether the bottle would crack?
+WHILEList2,77,while_request_Q,Q_WHILE,N/A,N/A,while_request_Q.wav,What did the doctor request tests while diagnosing?
+WHILEList2,78,filler_d_5,FILLER,N/A,N/A,filler_d_5.wav,The band marched the stairs up in a hurry.
+WHILEList2,79,filler_q_45,FILLER,N/A,N/A,filler_q_45.wav,What did the woman who she thought went to the park say?

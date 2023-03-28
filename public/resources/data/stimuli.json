@@ -1,0 +1,4837 @@
+{
+  "cols": {
+    "LIST": "0",
+    "EXP ORDER": "1",
+    "ID": "2",
+    "CONDITION": "3",
+    "VERB TYPE": "4",
+    "BEFORE/AFTER": "5",
+    "AUDIO FILE NAME": "6",
+    "ITEM": "7"
+  },
+  "column": "LIST",
+  "sort": "LIST",
+  "stimtype": "Text",
+  "files": {
+    "type": "Text",
+    "stimulusContent": null
+  },
+  "responsetype": "likert",
+  "promptcontent": "",
+  "trialgap": "0",
+  "instructions": {
+    "instructions-0": "",
+    "instructions-1": ""
+  },
+  "options": [],
+  "exit": {
+    "exit-0": ""
+  },
+  "output": [],
+  "plugin": {
+    "type": "survey-likert",
+    "choices": "labels"
+  },
+  "stimuli": {
+    "T1": [
+      [
+        "T1",
+        "1",
+        "FILLER_GOOD_1",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_1.wav",
+        "A microphone hit the emcee."
+      ],
+      [
+        "T1",
+        "2",
+        "FILLER_MED_1",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_1.wav",
+        "The motorcycle that we walked home after Eli slept on."
+      ],
+      [
+        "T1",
+        "3",
+        "PP_SL_1",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_1.wav",
+        "The athlete ran toward the gate with the baton that was passed."
+      ],
+      [
+        "T1",
+        "4",
+        "DECL_TO_enchant",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_enchant.wav",
+        "The student lit sparklers to enchant the audience."
+      ],
+      [
+        "T1",
+        "5",
+        "FILLER_BAD_1",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_1.wav",
+        "Who are closed a window?"
+      ],
+      [
+        "T1",
+        "6",
+        "DECL_TO_clean",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_clean.wav",
+        "The actor did laundry to clean the stain."
+      ],
+      [
+        "T1",
+        "7",
+        "PP_LL_1 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_1 .wav",
+        "The professor talked about the assignment that was late during the videoconference that was long."
+      ],
+      [
+        "T1",
+        "8",
+        "Q_TO_assist",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_assist.wav",
+        "Who did the nurse change sheets to assist?"
+      ],
+      [
+        "T1",
+        "9",
+        "DECL_TO_imagine",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_imagine.wav",
+        "The receptionist tried meditation to imagine the future."
+      ],
+      [
+        "T1",
+        "10",
+        "PP_LS_1",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_1.wav",
+        "The actress competed for the role that was important during the audition."
+      ],
+      [
+        "T1",
+        "11",
+        "FILLER_GOOD_4",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_4.wav",
+        "Are all of the children in the room?"
+      ],
+      [
+        "T1",
+        "12",
+        "PP_SS_1",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_1.wav",
+        "The swimmer spoke on the phone before the meet."
+      ],
+      [
+        "T1",
+        "13",
+        "Q_TO_bake",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_bake.wav",
+        "What did the gardener pick berries to bake?"
+      ],
+      [
+        "T1",
+        "14",
+        "FILLER_BAD_2",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_2.wav",
+        "Would the this store is successful?"
+      ],
+      [
+        "T1",
+        "15",
+        "DECL_TO_demonstrate",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_demonstrate.wav",
+        "The guide drank beer to demonstrate the dance."
+      ],
+      [
+        "T1",
+        "16",
+        "FILLER_MED_2",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_2.wav",
+        "Who conquered a company before a priest could drove to which house?"
+      ],
+      [
+        "T1",
+        "17",
+        "DECL_TO_know",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_know.wav",
+        "The representative conducted polls to know the plan."
+      ],
+      [
+        "T1",
+        "18",
+        "PP_LS_2",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_2.wav",
+        "The robber escaped from the neighborhood that was peaceful with the jewelry."
+      ],
+      [
+        "T1",
+        "19",
+        "FILLER_MED_3",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_3.wav",
+        "A violinist donated a warthog."
+      ],
+      [
+        "T1",
+        "20",
+        "Q_TO_contact",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_contact.wav",
+        "Who did the author call the office to contact?"
+      ],
+      [
+        "T1",
+        "21",
+        "FILLER_GOOD_3",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_3.wav",
+        "The teacher says that the course should contain material on the history of Ecuador in the colonial period."
+      ],
+      [
+        "T1",
+        "22",
+        "PP_LL_2 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_2 .wav",
+        "The beautician raved about the hairstyle that was trendy to the customer that was curious."
+      ],
+      [
+        "T1",
+        "23",
+        "DECL_TO_feed",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_feed.wav",
+        "The bookkeeper set the table to feed the boys."
+      ],
+      [
+        "T1",
+        "24",
+        "FILLER_BAD_3",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_3.wav",
+        "A closet traveled a brother."
+      ],
+      [
+        "T1",
+        "25",
+        "Q_TO_enjoy",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_enjoy.wav",
+        "What did the musician order dinner to enjoy?"
+      ],
+      [
+        "T1",
+        "26",
+        "PP_SL_2",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_2.wav",
+        "The mom strolled with the kite around the park that was busy."
+      ],
+      [
+        "T1",
+        "27",
+        "Q_TO_celebrate",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_celebrate.wav",
+        "What did the grandmother buy shoes to celebrate?"
+      ],
+      [
+        "T1",
+        "28",
+        "FILLER_BAD_6",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_6.wav",
+        "A woman that I ran away."
+      ],
+      [
+        "T1",
+        "29",
+        "PP_SS_2",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_2.wav",
+        "The chef cooked with the recipe for the reception."
+      ],
+      [
+        "T1",
+        "30",
+        "FILLER_MED_4",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_4.wav",
+        "Where is the keychain that we licked the frosting while slipping on?"
+      ],
+      [
+        "T1",
+        "31",
+        "DECL_TO_see",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_see.wav",
+        "The child watched TV to see the ballerina."
+      ],
+      [
+        "T1",
+        "32",
+        "PP_LL_3",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_3.wav",
+        "The firefighter collapsed against the firetruck that was red after the training that was comprehensive."
+      ],
+      [
+        "T1",
+        "33",
+        "FILLER_BAD_5",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_5.wav",
+        "What does everybody say that Marge saw the books?"
+      ],
+      [
+        "T1",
+        "34",
+        "DECL_TO_entertain",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_entertain.wav",
+        "The clown made a face to entertain the kids."
+      ],
+      [
+        "T1",
+        "35",
+        "FILLER_GOOD_2",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_2.wav",
+        "Which advisors think that Bill should drive an electric car when he is in the city?"
+      ],
+      [
+        "T1",
+        "36",
+        "Q_TO_buy",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_buy.wav",
+        "What did the shopper compare ads to buy?"
+      ],
+      [
+        "T1",
+        "37",
+        "FILLER_MED_5",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_5.wav",
+        "The wagon fought while a nurse fell on."
+      ],
+      [
+        "T1",
+        "38",
+        "DECL_TO_diagnose",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_diagnose.wav",
+        "The doctor ordered tests to diagnose the problem."
+      ],
+      [
+        "T1",
+        "39",
+        "PP_LS_3",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_3.wav",
+        "The tourist slept on the bed that was small throughout the evening."
+      ],
+      [
+        "T1",
+        "40",
+        "FILLER_BAD_4",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_4.wav",
+        "The keyboard that he touched a cord when looking at."
+      ],
+      [
+        "T1",
+        "41",
+        "Q_TO_hear",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_hear.wav",
+        "Who did the assistant open YouTube to hear?"
+      ],
+      [
+        "T1",
+        "42",
+        "FILLER_GOOD_5",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_5.wav",
+        "Who wants to eat now?"
+      ],
+      [
+        "T1",
+        "43",
+        "PP_LL_4",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_4.wav",
+        "The freshman complained about the grade that was low at the library that was empty."
+      ],
+      [
+        "T1",
+        "44",
+        "DECL_TO_find",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_find.wav",
+        "The dentist read books to find the story."
+      ],
+      [
+        "T1",
+        "45",
+        "FILLER_BAD_7",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_7.wav",
+        "The students will studied on those bus?"
+      ],
+      [
+        "T1",
+        "46",
+        "Q_TO_impress",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_impress.wav",
+        "Who did the accountant change jobs to impress?"
+      ],
+      [
+        "T1",
+        "47",
+        "PP_SS_3",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_3.wav",
+        "The singer  performed with the microphone  after the wedding."
+      ],
+      [
+        "T1",
+        "48",
+        "FILLER_MED_10",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_10.wav",
+        "She wondered whether the customer and not the other manager had heard what they said."
+      ],
+      [
+        "T1",
+        "49",
+        "DECL_TO_help",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_help.wav",
+        "The custodian unlocked the door to help the manager."
+      ],
+      [
+        "T1",
+        "50",
+        "Q_TO_observe",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_observe.wav",
+        "What did the scientist add chemicals to observe?"
+      ],
+      [
+        "T1",
+        "51",
+        "FILLER_GOOD_6",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_6.wav",
+        "The manager we all saw wasn't there today."
+      ],
+      [
+        "T1",
+        "52",
+        "PP_SL_3",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_3.wav",
+        "The workers rested under the umbrella after the renovation that was difficult."
+      ],
+      [
+        "T1",
+        "53",
+        "FILLER_BAD_8",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_8.wav",
+        "Which child sneezing those field?"
+      ],
+      [
+        "T1",
+        "54",
+        "DECL_TO_smell",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_smell.wav",
+        "The server lit candles to smell the scent."
+      ],
+      [
+        "T1",
+        "55",
+        "Q_TO_meet",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_meet.wav",
+        "Who did the mechanic change classes to meet?"
+      ],
+      [
+        "T1",
+        "56",
+        "PP_SS_4",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_4.wav",
+        "The star smiled throughout the show for the camera."
+      ],
+      [
+        "T1",
+        "57",
+        "DECL_TO_inspire",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_inspire.wav",
+        "The driver won races to inspire the students."
+      ],
+      [
+        "T1",
+        "58",
+        "FILLER_MED_6",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_6.wav",
+        "Why did you see the wallet that they desired coins before?"
+      ],
+      [
+        "T1",
+        "59",
+        "Q_TO_sell",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_sell.wav",
+        "What did the clerk play music to sell?"
+      ],
+      [
+        "T1",
+        "60",
+        "DECL_TO_marry",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_marry.wav",
+        "The manager switched religions to marry the librarian."
+      ],
+      [
+        "T1",
+        "61",
+        "FILLER_BAD_9",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_9.wav",
+        "My tent that I earned money after."
+      ],
+      [
+        "T1",
+        "62",
+        "Q_TO_remember",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_remember.wav",
+        "Who did the salesperson take notes to remember?"
+      ],
+      [
+        "T1",
+        "63",
+        "PP_LS_4",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_4.wav",
+        "The attorney despaired over the ruling that was unjust after the hearing."
+      ],
+      [
+        "T1",
+        "64",
+        "FILLER_MED_7",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_7.wav",
+        "Who did the woman who she thought went to the artifice before the other day?"
+      ],
+      [
+        "T1",
+        "65",
+        "PP_SL_4",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_4.wav",
+        "The toddler played with the toy in the morning that was bright."
+      ],
+      [
+        "T1",
+        "66",
+        "FILLER_GOOD_7",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_7.wav",
+        "What do you think was on the table yesterday?"
+      ],
+      [
+        "T1",
+        "67",
+        "DECL_TO_prepare",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_prepare.wav",
+        "The pilot bought groceries to prepare the dough."
+      ],
+      [
+        "T1",
+        "68",
+        "Q_TO_interrupt",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_interrupt.wav",
+        "Who did the grandfather clear his throat to interrupt?"
+      ],
+      [
+        "T1",
+        "69",
+        "FILLER_BAD_10",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_10.wav",
+        "A napkin that it spilled milk before an employer."
+      ],
+      [
+        "T1",
+        "70",
+        "PP_SS_5",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_5.wav",
+        "The leader spoke to the audience about the issue."
+      ],
+      [
+        "T1",
+        "71",
+        "FILLER_MED_8",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_8.wav",
+        "There is no way to be expected by such a person that would think."
+      ],
+      [
+        "T1",
+        "72",
+        "PP_LL_5",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_5.wav",
+        "The comedian hid behind the truck that was old for the prank that was hilarious."
+      ],
+      [
+        "T1",
+        "73",
+        "Q_TO_win",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_win.wav",
+        "What did the cook practice running to win?"
+      ],
+      [
+        "T1",
+        "74",
+        "DECL_TO_surprise",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_surprise.wav",
+        "The lawyer wrapped gifts to surprise the trainee."
+      ],
+      [
+        "T1",
+        "75",
+        "FILLER_GOOD_8",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_8.wav",
+        "We don't believe that he was there."
+      ],
+      [
+        "T1",
+        "76",
+        "PP_SL_5",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_5.wav",
+        "The girl climbed onto the tree amid the crowd that was watching."
+      ],
+      [
+        "T1",
+        "77",
+        "FILLER_MED_9",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_9.wav",
+        "The customer mortgaged breakfast."
+      ],
+      [
+        "T1",
+        "78",
+        "Q_TO_understand",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_understand.wav",
+        "What did the teacher watch movies to understand?"
+      ],
+      [
+        "T1",
+        "79",
+        "PP_LS_5",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_5.wav",
+        "The researcher looked through the lens that was adjusted at the sky."
+      ],
+      [
+        "T1",
+        "80",
+        "Q_TO_woo",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_woo.wav",
+        "Who did the attendant arrange flowers to woo?"
+      ]
+    ],
+    "T2": [
+      [
+        "T2",
+        "1",
+        "FILLER_GOOD_1",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_1.wav",
+        "A microphone hit the emcee."
+      ],
+      [
+        "T2",
+        "2",
+        "FILLER_BAD_1",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_1.wav",
+        "Who are closed a window?"
+      ],
+      [
+        "T2",
+        "3",
+        "PP_SL_6",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_6.wav",
+        "The swimmer spoke on the phone before the meet that was important."
+      ],
+      [
+        "T2",
+        "4",
+        "DECL_TO_woo",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_woo.wav",
+        "The attendant arranged flowers to woo the gardener."
+      ],
+      [
+        "T2",
+        "5",
+        "PP_LL_6",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_6.wav",
+        "The actress competed for the role that was important during the audition that was competitive."
+      ],
+      [
+        "T2",
+        "6",
+        "Q_TO_smell",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_smell.wav",
+        "What did the server light candles to smell?"
+      ],
+      [
+        "T2",
+        "7",
+        "FILLER_MED_1",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_1.wav",
+        "The motorcycle that we walked home after Eli slept on."
+      ],
+      [
+        "T2",
+        "8",
+        "Q_TO_inspire",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_inspire.wav",
+        "Who did the driver win races to inspire?"
+      ],
+      [
+        "T2",
+        "9",
+        "DECL_TO_interrupt",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_interrupt.wav",
+        "The grandfather cleared his throat to interrupt the manager."
+      ],
+      [
+        "T2",
+        "10",
+        "PP_LS_6",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_6.wav",
+        "The athlete ran toward the gate that was distant with the baton."
+      ],
+      [
+        "T2",
+        "11",
+        "FILLER_GOOD_2",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_2.wav",
+        "Which advisors think that Bill should drive an electric car when he is in the city?"
+      ],
+      [
+        "T2",
+        "12",
+        "Q_TO_surprise",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_surprise.wav",
+        "Who did the lawyer wrap gifts to surprise?"
+      ],
+      [
+        "T2",
+        "13",
+        "PP_SS_6",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_6.wav",
+        "The professor talked about the assignment during the videoconference."
+      ],
+      [
+        "T2",
+        "14",
+        "FILLER_BAD_2",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_2.wav",
+        "Would the this store is successful?"
+      ],
+      [
+        "T2",
+        "15",
+        "DECL_TO_hear",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_hear.wav",
+        "The assistant opened YouTube to hear the singer."
+      ],
+      [
+        "T2",
+        "16",
+        "FILLER_MED_2",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_2.wav",
+        "Who conquered a company before a priest could drove to which house?"
+      ],
+      [
+        "T2",
+        "17",
+        "DECL_TO_meet",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_meet.wav",
+        "The mechanic changed classes to meet the engineer."
+      ],
+      [
+        "T2",
+        "18",
+        "PP_LS_7",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_7.wav",
+        "The mom strolled with the kite that was colorful around the park."
+      ],
+      [
+        "T2",
+        "19",
+        "FILLER_MED_3",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_3.wav",
+        "A violinist donated a warthog."
+      ],
+      [
+        "T2",
+        "20",
+        "Q_TO_imagine",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_imagine.wav",
+        "What did the receptionist try meditation to imagine?"
+      ],
+      [
+        "T2",
+        "21",
+        "PP_LL_7",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_7.wav",
+        "The robber escaped from the neighborhood that was peaceful with the jewelry that was expensive."
+      ],
+      [
+        "T2",
+        "22",
+        "FILLER_GOOD_7",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_7.wav",
+        "What do you think was on the table yesterday?"
+      ],
+      [
+        "T2",
+        "23",
+        "Q_TO_prepare",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_prepare.wav",
+        "What did the pilot buy groceries to prepare?"
+      ],
+      [
+        "T2",
+        "24",
+        "FILLER_BAD_3",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_3.wav",
+        "A closet traveled a brother."
+      ],
+      [
+        "T2",
+        "25",
+        "DECL_TO_remember",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_remember.wav",
+        "The salesperson took notes to remember the thief."
+      ],
+      [
+        "T2",
+        "26",
+        "PP_SL_7",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_7.wav",
+        "The chef cooked with the recipe for the reception that was lively."
+      ],
+      [
+        "T2",
+        "27",
+        "Q_TO_diagnose",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_diagnose.wav",
+        "What did the doctor order tests to diagnose?"
+      ],
+      [
+        "T2",
+        "28",
+        "FILLER_BAD_4",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_4.wav",
+        "The keyboard that he touched a cord when looking at."
+      ],
+      [
+        "T2",
+        "29",
+        "DECL_TO_win",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_win.wav",
+        "The cook practiced running to win the race."
+      ],
+      [
+        "T2",
+        "30",
+        "FILLER_MED_4",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_4.wav",
+        "Where is the keychain that we licked the frosting while slipping on?"
+      ],
+      [
+        "T2",
+        "31",
+        "PP_SS_7",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_7.wav",
+        "The beautician raved about the hairstyle to the customer."
+      ],
+      [
+        "T2",
+        "32",
+        "DECL_TO_understand",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_understand.wav",
+        "The teacher watched movies to understand the book."
+      ],
+      [
+        "T2",
+        "33",
+        "FILLER_BAD_5",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_5.wav",
+        "What does everybody say that Marge saw the books?"
+      ],
+      [
+        "T2",
+        "34",
+        "PP_LL_8",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_8.wav",
+        "The tourist slept on the bed that was small throughout the evening that was hot."
+      ],
+      [
+        "T2",
+        "35",
+        "FILLER_GOOD_4",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_4.wav",
+        "Are all of the children in the room?"
+      ],
+      [
+        "T2",
+        "36",
+        "Q_TO_help",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_help.wav",
+        "Who did the custodian unlock the door to help?"
+      ],
+      [
+        "T2",
+        "37",
+        "FILLER_MED_10",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_10.wav",
+        "She wondered whether the customer and not the other manager had heard what they said"
+      ],
+      [
+        "T2",
+        "38",
+        "DECL_TO_celebrate",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_celebrate.wav",
+        "The grandmother bought shoes to celebrate the win."
+      ],
+      [
+        "T2",
+        "39",
+        "PP_LS_8",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_8.wav",
+        "The workers rested under the umbrella that was large after the renovation."
+      ],
+      [
+        "T2",
+        "40",
+        "FILLER_BAD_6",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_6.wav",
+        "A woman that I ran away."
+      ],
+      [
+        "T2",
+        "41",
+        "Q_TO_demonstrate",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_demonstrate.wav",
+        "What did the guide drink beer to demonstrate?"
+      ],
+      [
+        "T2",
+        "42",
+        "FILLER_GOOD_5",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_5.wav",
+        "Who wants to eat now?"
+      ],
+      [
+        "T2",
+        "43",
+        "PP_LL_9",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_9.wav",
+        "The attorney despaired over the ruling that was unjust after the hearing that was delayed."
+      ],
+      [
+        "T2",
+        "44",
+        "DECL_TO_contact",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_contact.wav",
+        "The author called the office to contact the publisher."
+      ],
+      [
+        "T2",
+        "45",
+        "FILLER_BAD_7",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_7.wav",
+        "The students will studied on those bus?"
+      ],
+      [
+        "T2",
+        "46",
+        "Q_TO_enchant",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_enchant.wav",
+        "Who did the student light sparklers to enchant?"
+      ],
+      [
+        "T2",
+        "47",
+        "PP_SS_8",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_8.wav",
+        "The firefighter collapsed against the firetruck after the training."
+      ],
+      [
+        "T2",
+        "48",
+        "FILLER_MED_5",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_5.wav",
+        "The wagon fought while a nurse fell on."
+      ],
+      [
+        "T2",
+        "49",
+        "Q_TO_marry",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_marry.wav",
+        "Who did the manager switch religions to marry?"
+      ],
+      [
+        "T2",
+        "50",
+        "DECL_TO_bake",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_bake.wav",
+        "The gardener picked berries to bake the pies."
+      ],
+      [
+        "T2",
+        "51",
+        "FILLER_GOOD_6",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_6.wav",
+        "The manager we all saw wasn't there today."
+      ],
+      [
+        "T2",
+        "52",
+        "Q_TO_feed",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_feed.wav",
+        "Who did the bookkeeper set the table to feed?"
+      ],
+      [
+        "T2",
+        "53",
+        "FILLER_BAD_8",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_8.wav",
+        "Which child sneezing those field?"
+      ],
+      [
+        "T2",
+        "54",
+        "PP_SL_8",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_8.wav",
+        "The singer  performed with the microphone  after the wedding that was beautiful."
+      ],
+      [
+        "T2",
+        "55",
+        "DECL_TO_sell",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_sell.wav",
+        "The clerk played music to sell the piano."
+      ],
+      [
+        "T2",
+        "56",
+        "PP_SS_9",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_9.wav",
+        "The freshman complained about the grade at the library."
+      ],
+      [
+        "T2",
+        "57",
+        "Q_TO_entertain",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_entertain.wav",
+        "Who did the clown make a face to entertain?"
+      ],
+      [
+        "T2",
+        "58",
+        "FILLER_MED_6",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_6.wav",
+        "Why did you see the wallet that they desired coins before?"
+      ],
+      [
+        "T2",
+        "59",
+        "DECL_TO_observe",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_observe.wav",
+        "The scientist added chemicals to observe the reaction."
+      ],
+      [
+        "T2",
+        "60",
+        "PP_LS_9",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_9.wav",
+        "The toddler played with the toy that was loud in the morning."
+      ],
+      [
+        "T2",
+        "61",
+        "FILLER_BAD_9",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_9.wav",
+        "My tent that I earned money after."
+      ],
+      [
+        "T2",
+        "62",
+        "DECL_TO_buy",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_buy.wav",
+        "The shopper compared ads to buy the tablet."
+      ],
+      [
+        "T2",
+        "63",
+        "Q_TO_see",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_see.wav",
+        "Who did the child watch TV to see?"
+      ],
+      [
+        "T2",
+        "64",
+        "FILLER_MED_7",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_7.wav",
+        "Who did the woman who she thought went to the artifice before the other day?"
+      ],
+      [
+        "T2",
+        "65",
+        "PP_SL_9",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_9.wav",
+        "The star smiled throughout the show for the camera that was rolling."
+      ],
+      [
+        "T2",
+        "66",
+        "FILLER_GOOD_3",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_3.wav",
+        "The teacher says that the course should contain material on the history of Ecuador in the colonial period."
+      ],
+      [
+        "T2",
+        "67",
+        "Q_TO_clean",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_clean.wav",
+        "What did the actor do laundry to clean?"
+      ],
+      [
+        "T2",
+        "68",
+        "DECL_TO_enjoy",
+        "DECL_TO",
+        "Stative",
+        "N/A",
+        "DECL_TO_enjoy.wav",
+        "The musician ordered dinner to enjoy the wine."
+      ],
+      [
+        "T2",
+        "69",
+        "FILLER_BAD_10",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_10.wav",
+        "A napkin that it spilled milk before an employer."
+      ],
+      [
+        "T2",
+        "70",
+        "PP_SS_10",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_10.wav",
+        "The comedian hid behind the truck for the prank."
+      ],
+      [
+        "T2",
+        "71",
+        "FILLER_MED_8",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_8.wav",
+        "There is no way to be expected by such a person that would think."
+      ],
+      [
+        "T2",
+        "72",
+        "PP_LL_10",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_10.wav",
+        "The researcher looked through the lens that was adjusted at the sky that was darkening."
+      ],
+      [
+        "T2",
+        "73",
+        "DECL_TO_assist",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_assist.wav",
+        "The nurse changed sheets to assist the doctor."
+      ],
+      [
+        "T2",
+        "74",
+        "Q_TO_find",
+        "Q_TO",
+        "Active",
+        "N/A",
+        "Q_TO_find.wav",
+        "What did the dentist read books to find?"
+      ],
+      [
+        "T2",
+        "75",
+        "FILLER_GOOD_8",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_8.wav",
+        "We don't believe that he was there."
+      ],
+      [
+        "T2",
+        "76",
+        "PP_SL_10",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_10.wav",
+        "The leader spoke to the audience about the issue that was pressing."
+      ],
+      [
+        "T2",
+        "77",
+        "FILLER_MED_9",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_9.wav",
+        "The customer mortgaged breakfast"
+      ],
+      [
+        "T2",
+        "78",
+        "DECL_TO_impress",
+        "DECL_TO",
+        "Active",
+        "N/A",
+        "DECL_TO_impress.wav",
+        "The accountant changed jobs to impress the CEO."
+      ],
+      [
+        "T2",
+        "79",
+        "PP_LS_10",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_10.wav",
+        "The girl climbed onto the tree that was tall amid the crowd."
+      ],
+      [
+        "T2",
+        "80",
+        "Q_TO_know",
+        "Q_TO",
+        "Stative",
+        "N/A",
+        "Q_TO_know.wav",
+        "What did the representative conduct polls to know?"
+      ]
+    ],
+    "I1": [
+      [
+        "I1",
+        "1",
+        "FILLER_GOOD_1",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_1.wav",
+        "A microphone hit the emcee."
+      ],
+      [
+        "I1",
+        "2",
+        "FILLER_MED_1",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_1.wav",
+        "The motorcycle that we walked home after Eli slept on."
+      ],
+      [
+        "I1",
+        "3",
+        "PP_SL_11",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_11.wav",
+        "The professor talked about the assignment during the videoconference that was long."
+      ],
+      [
+        "I1",
+        "4",
+        "DECL_ING_bake",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_bake.wav",
+        "The gardener picked berries before baking the pies."
+      ],
+      [
+        "I1",
+        "5",
+        "PP_LL_11 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_11 .wav",
+        "The athlete ran toward the gate that was distant with the baton that was passed."
+      ],
+      [
+        "I1",
+        "6",
+        "Q_ING_remember",
+        "Q_ING",
+        "Stative",
+        "AFTER",
+        "Q_ING_remember.wav",
+        "Who did the salesperson take notes after remembering?"
+      ],
+      [
+        "I1",
+        "7",
+        "FILLER_BAD_1",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_1.wav",
+        "Who are closed a window?"
+      ],
+      [
+        "I1",
+        "8",
+        "Q_ING_contact",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_contact.wav",
+        "Who did the author call the office after contacting?"
+      ],
+      [
+        "I1",
+        "9",
+        "DECL_ING_win",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_win.wav",
+        "The cook practiced running before winning the race."
+      ],
+      [
+        "I1",
+        "10",
+        "PP_LS_11",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_11.wav",
+        "The swimmer spoke on the phone that was new before the meet."
+      ],
+      [
+        "I1",
+        "11",
+        "FILLER_GOOD_2",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_2.wav",
+        "Which advisors think that Bill should drive an electric car when he is in the city?"
+      ],
+      [
+        "I1",
+        "12",
+        "PP_SS_11",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_11.wav",
+        "The actress competed for the role during the audition."
+      ],
+      [
+        "I1",
+        "13",
+        "Q_ING_entertain",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_entertain.wav",
+        "Who did the clown make a face before entertaining?"
+      ],
+      [
+        "I1",
+        "14",
+        "FILLER_BAD_2",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_2.wav",
+        "Would the this store is successful?"
+      ],
+      [
+        "I1",
+        "15",
+        "DECL_ING_clean",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_clean.wav",
+        "The actor did laundry after cleaning the stain."
+      ],
+      [
+        "I1",
+        "16",
+        "FILLER_MED_2",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_2.wav",
+        "Who conquered a company before a priest could drove to which house?"
+      ],
+      [
+        "I1",
+        "17",
+        "DECL_ING_enjoy",
+        "DECL_ING",
+        "Stative",
+        "BEFORE",
+        "DECL_ING_enjoy.wav",
+        "The musician ordered dinner before enjoying the wine."
+      ],
+      [
+        "I1",
+        "18",
+        "PP_LS_12",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_12.wav",
+        "The chef cooked with the recipe that was famous for the reception."
+      ],
+      [
+        "I1",
+        "19",
+        "FILLER_MED_3",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_3.wav",
+        "A violinist donated a warthog."
+      ],
+      [
+        "I1",
+        "20",
+        "Q_ING_impress",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_impress.wav",
+        "Who did the accountant change jobs after impressing?"
+      ],
+      [
+        "I1",
+        "21",
+        "FILLER_GOOD_3",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_3.wav",
+        "The teacher says that the course should contain material on the history of Ecuador in the colonial period."
+      ],
+      [
+        "I1",
+        "22",
+        "PP_LL_12 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_12 .wav",
+        "The mom strolled with the kite that was colorful around the park that was busy."
+      ],
+      [
+        "I1",
+        "23",
+        "DECL_ING_demonstrate",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_demonstrate.wav",
+        "The guide drank beer after demonstrating the dance."
+      ],
+      [
+        "I1",
+        "24",
+        "FILLER_BAD_3",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_3.wav",
+        "A closet traveled a brother."
+      ],
+      [
+        "I1",
+        "25",
+        "Q_ING_help",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_help.wav",
+        "Who did the custodian unlock the door before helping?"
+      ],
+      [
+        "I1",
+        "26",
+        "PP_SL_12",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_12.wav",
+        "The beautician raved about the hairstyle to the customer that was curious."
+      ],
+      [
+        "I1",
+        "27",
+        "DECL_ING_assist",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_assist.wav",
+        "The nurse changed sheets before assisting the doctor."
+      ],
+      [
+        "I1",
+        "28",
+        "FILLER_BAD_4",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_4.wav",
+        "The keyboard that he touched a cord when looking at."
+      ],
+      [
+        "I1",
+        "29",
+        "PP_SS_12",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_12.wav",
+        "The robber escaped from the neighborhood with the jewelry."
+      ],
+      [
+        "I1",
+        "30",
+        "FILLER_MED_4",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_4.wav",
+        "Where is the keychain that we licked the frosting while slipping on?"
+      ],
+      [
+        "I1",
+        "31",
+        "DECL_ING_smell",
+        "DECL_ING",
+        "Stative",
+        "AFTER",
+        "DECL_ING_smell.wav",
+        "The server lit candles after smelling the scent."
+      ],
+      [
+        "I1",
+        "32",
+        "Q_ING_interrupt",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_interrupt.wav",
+        "Who did the grandfather clear his throat after interrupting?"
+      ],
+      [
+        "I1",
+        "33",
+        "FILLER_BAD_5",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_5.wav",
+        "What does everybody say that Marge saw the books?"
+      ],
+      [
+        "I1",
+        "34",
+        "PP_LL_13 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_13 .wav",
+        "The workers rested under the umbrella that was large after the renovation that was difficult."
+      ],
+      [
+        "I1",
+        "35",
+        "FILLER_GOOD_4",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_4.wav",
+        "Are all of the children in the room?"
+      ],
+      [
+        "I1",
+        "36",
+        "DECL_ING_buy",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_buy.wav",
+        "The shopper compared ads before buying the tablet."
+      ],
+      [
+        "I1",
+        "37",
+        "FILLER_MED_10",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_10.wav",
+        "She wondered whether the customer and not the other manager had heard what they said"
+      ],
+      [
+        "I1",
+        "38",
+        "Q_ING_enchant",
+        "Q_ING",
+        "Stative",
+        "BEFORE",
+        "Q_ING_enchant.wav",
+        "Who did the student light sparklers before enchanting?"
+      ],
+      [
+        "I1",
+        "39",
+        "PP_LS_13",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_13.wav",
+        "The singer  performed with the microphone  that was wireless after the wedding."
+      ],
+      [
+        "I1",
+        "40",
+        "FILLER_BAD_6",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_6.wav",
+        "A woman that I ran away."
+      ],
+      [
+        "I1",
+        "41",
+        "Q_ING_meet",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_meet.wav",
+        "Who did the mechanic change classes after meeting?"
+      ],
+      [
+        "I1",
+        "42",
+        "FILLER_GOOD_5",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_5.wav",
+        "Who wants to eat now?"
+      ],
+      [
+        "I1",
+        "43",
+        "PP_LL_14 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_14 .wav",
+        "The toddler played with the toy that was loud in the morning that was bright."
+      ],
+      [
+        "I1",
+        "44",
+        "DECL_ING_imagine",
+        "DECL_ING",
+        "Stative",
+        "AFTER",
+        "DECL_ING_imagine.wav",
+        "The receptionist tried meditation after imagining the future."
+      ],
+      [
+        "I1",
+        "45",
+        "FILLER_BAD_7",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_7.wav",
+        "The students will studied on those bus?"
+      ],
+      [
+        "I1",
+        "46",
+        "Q_ING_feed",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_feed.wav",
+        "Who did the bookkeeper set the table before feeding?"
+      ],
+      [
+        "I1",
+        "47",
+        "PP_SS_13",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_13.wav",
+        "The tourist slept on the bed throughout the evening."
+      ],
+      [
+        "I1",
+        "48",
+        "FILLER_MED_5",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_5.wav",
+        "The wagon fought while a nurse fell on."
+      ],
+      [
+        "I1",
+        "49",
+        "DECL_ING_diagnose",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_diagnose.wav",
+        "The doctor ordered tests after diagnosing the problem."
+      ],
+      [
+        "I1",
+        "50",
+        "Q_ING_hear",
+        "Q_ING",
+        "Stative",
+        "AFTER",
+        "Q_ING_hear.wav",
+        "Who did the assistant open YouTube after hearing?"
+      ],
+      [
+        "I1",
+        "51",
+        "FILLER_GOOD_6",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_6.wav",
+        "The manager we all saw wasn't there today."
+      ],
+      [
+        "I1",
+        "52",
+        "PP_SL_13",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_13.wav",
+        "The firefighter collapsed against the firetruck after the training that was comprehensive."
+      ],
+      [
+        "I1",
+        "53",
+        "FILLER_BAD_8",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_8.wav",
+        "Which child sneezing those field?"
+      ],
+      [
+        "I1",
+        "54",
+        "Q_ING_surprise",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_surprise.wav",
+        "Who did the lawyer wrap gifts before surprising?"
+      ],
+      [
+        "I1",
+        "55",
+        "DECL_ING_find",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_find.wav",
+        "The dentist read books after finding the story."
+      ],
+      [
+        "I1",
+        "56",
+        "PP_SS_14",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_14.wav",
+        "The attorney despaired over the ruling after the hearing."
+      ],
+      [
+        "I1",
+        "57",
+        "DECL_ING_understand",
+        "DECL_ING",
+        "Stative",
+        "BEFORE",
+        "DECL_ING_understand.wav",
+        "The teacher watched movies before understanding the book."
+      ],
+      [
+        "I1",
+        "58",
+        "FILLER_MED_6",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_6.wav",
+        "Why did you see the wallet that they desired coins before?"
+      ],
+      [
+        "I1",
+        "59",
+        "Q_ING_woo",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_woo.wav",
+        "Who did the attendant arrange flowers after wooing?"
+      ],
+      [
+        "I1",
+        "60",
+        "DECL_ING_celebrate",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_celebrate.wav",
+        "The grandmother bought shoes before celebrating the win."
+      ],
+      [
+        "I1",
+        "61",
+        "FILLER_BAD_9",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_9.wav",
+        "My tent that I earned money after."
+      ],
+      [
+        "I1",
+        "62",
+        "PP_LS_14",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_14.wav",
+        "The star smiled throughout the show that was popular for the camera."
+      ],
+      [
+        "I1",
+        "63",
+        "Q_ING_see",
+        "Q_ING",
+        "Stative",
+        "BEFORE",
+        "Q_ING_see.wav",
+        "Who did the child watch TV before seeing?"
+      ],
+      [
+        "I1",
+        "64",
+        "FILLER_MED_7",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_7.wav",
+        "Who did the woman who she thought went to the artifice before the other day?"
+      ],
+      [
+        "I1",
+        "65",
+        "PP_SL_14",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_14.wav",
+        "The freshman complained about the grade at the library that was empty."
+      ],
+      [
+        "I1",
+        "66",
+        "FILLER_GOOD_7",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_7.wav",
+        "What do you think was on the table yesterday?"
+      ],
+      [
+        "I1",
+        "67",
+        "DECL_ING_know",
+        "DECL_ING",
+        "Stative",
+        "AFTER",
+        "DECL_ING_know.wav",
+        "The representative conducted polls after knowing the plan."
+      ],
+      [
+        "I1",
+        "68",
+        "Q_ING_marry",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_marry.wav",
+        "Who did the manager switch religions before marrying?"
+      ],
+      [
+        "I1",
+        "69",
+        "FILLER_BAD_10",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_10.wav",
+        "A napkin that it spilled milk before an employer."
+      ],
+      [
+        "I1",
+        "70",
+        "PP_SS_15",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_15.wav",
+        "The researcher looked through the lens at the sky."
+      ],
+      [
+        "I1",
+        "71",
+        "FILLER_MED_8",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_8.wav",
+        "There is no way to be expected by such a person that would think."
+      ],
+      [
+        "I1",
+        "72",
+        "PP_LL_15 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_15 .wav",
+        "The girl climbed onto the tree that was tall amid the crowd that was watching."
+      ],
+      [
+        "I1",
+        "73",
+        "DECL_ING_prepare",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_prepare.wav",
+        "The pilot bought groceries after preparing the dough."
+      ],
+      [
+        "I1",
+        "74",
+        "Q_ING_inspire",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_inspire.wav",
+        "Who did the driver win races before inspiring?"
+      ],
+      [
+        "I1",
+        "75",
+        "FILLER_GOOD_8",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_8.wav",
+        "We don't believe that he was there."
+      ],
+      [
+        "I1",
+        "76",
+        "PP_SL_15",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_15.wav",
+        "The comedian hid behind the truck for the prank that was hilarious."
+      ],
+      [
+        "I1",
+        "77",
+        "FILLER_MED_9",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_9.wav",
+        "The customer mortgaged breakfast"
+      ],
+      [
+        "I1",
+        "78",
+        "DECL_ING_observe",
+        "DECL_ING",
+        "Stative",
+        "BEFORE",
+        "DECL_ING_observe.wav",
+        "The scientist added chemicals before observing the reaction."
+      ],
+      [
+        "I1",
+        "79",
+        "PP_LS_15",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_15.wav",
+        "The leader spoke to the audience that was present about the issue."
+      ],
+      [
+        "I1",
+        "80",
+        "Q_ING_sell",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_sell.wav",
+        "What did the clerk play music after selling?"
+      ]
+    ],
+    "I2": [
+      [
+        "I2",
+        "1",
+        "FILLER_GOOD_1",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_1.wav",
+        "A microphone hit the emcee."
+      ],
+      [
+        "I2",
+        "2",
+        "FILLER_MED_1",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_1.wav",
+        "The motorcycle that we walked home after Eli slept on."
+      ],
+      [
+        "I2",
+        "3",
+        "PP_SL_16",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_16.wav",
+        "The actress competed for the role during the audition that was competitive."
+      ],
+      [
+        "I2",
+        "4",
+        "DECL_ING_inspire",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_inspire.wav",
+        "The driver won races before inspiring the students"
+      ],
+      [
+        "I2",
+        "5",
+        "PP_LL_16 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_16 .wav",
+        "The swimmer spoke on the phone that was new before the meet that was important."
+      ],
+      [
+        "I2",
+        "6",
+        "Q_ING_know",
+        "Q_ING",
+        "Stative",
+        "AFTER",
+        "Q_ING_know.wav",
+        "What did the representative conduct polls after knowing?"
+      ],
+      [
+        "I2",
+        "7",
+        "FILLER_BAD_1",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_1.wav",
+        "Who are closed a window?"
+      ],
+      [
+        "I2",
+        "8",
+        "Q_ING_demonstrate",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_demonstrate.wav",
+        "What did the guide drink beer after demonstrating?"
+      ],
+      [
+        "I2",
+        "9",
+        "DECL_ING_interrupt",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_interrupt.wav",
+        "The grandfather cleared his throat after interrupting the manager."
+      ],
+      [
+        "I2",
+        "10",
+        "PP_LS_16",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_16.wav",
+        "The professor talked about the assignment that was late during the videoconference."
+      ],
+      [
+        "I2",
+        "11",
+        "FILLER_GOOD_2",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_2.wav",
+        "Which advisors think that Bill should drive an electric car when he is in the city?"
+      ],
+      [
+        "I2",
+        "12",
+        "PP_SS_16",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_16.wav",
+        "The athlete ran toward the gate with the baton."
+      ],
+      [
+        "I2",
+        "13",
+        "Q_ING_prepare",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_prepare.wav",
+        "What did the pilot buy groceries after preparing?"
+      ],
+      [
+        "I2",
+        "14",
+        "FILLER_BAD_2",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_2.wav",
+        "Would the this store is successful?"
+      ],
+      [
+        "I2",
+        "15",
+        "DECL_ING_surprise",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_surprise.wav",
+        "The lawyer wrapped gifts before surprising the trainee."
+      ],
+      [
+        "I2",
+        "16",
+        "FILLER_MED_2",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_2.wav",
+        "Who conquered a company before a priest could drove to which house?"
+      ],
+      [
+        "I2",
+        "17",
+        "DECL_ING_enchant",
+        "DECL_ING",
+        "Stative",
+        "BEFORE",
+        "DECL_ING_enchant.wav",
+        "The student lit sparklers before enchanting the audience."
+      ],
+      [
+        "I2",
+        "18",
+        "PP_LS_17",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_17.wav",
+        "The beautician raved about the hairstyle that was trendy to the customer."
+      ],
+      [
+        "I2",
+        "19",
+        "FILLER_MED_3",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_3.wav",
+        "A violinist donated a warthog."
+      ],
+      [
+        "I2",
+        "20",
+        "Q_ING_diagnose",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_diagnose.wav",
+        "What did the doctor order tests after diagnosing?"
+      ],
+      [
+        "I2",
+        "21",
+        "FILLER_GOOD_3",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_3.wav",
+        "The teacher says that the course should contain material on the history of Ecuador in the colonial period."
+      ],
+      [
+        "I2",
+        "22",
+        "PP_LL_17 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_17 .wav",
+        "The chef cooked with the recipe that was famous for the reception that was lively."
+      ],
+      [
+        "I2",
+        "23",
+        "DECL_ING_sell",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_sell.wav",
+        "The clerk played music after selling the piano."
+      ],
+      [
+        "I2",
+        "24",
+        "FILLER_BAD_3",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_3.wav",
+        "A closet traveled a brother."
+      ],
+      [
+        "I2",
+        "25",
+        "Q_ING_celebrate",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_celebrate.wav",
+        "What did the grandmother buy shoes before celebrating?"
+      ],
+      [
+        "I2",
+        "26",
+        "PP_SL_17",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_17.wav",
+        "The robber escaped from the neighborhood with the jewelry that was expensive."
+      ],
+      [
+        "I2",
+        "27",
+        "DECL_ING_woo",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_woo.wav",
+        "The attendant arranged flowers after wooing the gardener."
+      ],
+      [
+        "I2",
+        "28",
+        "FILLER_BAD_4",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_4.wav",
+        "The keyboard that he touched a cord when looking at."
+      ],
+      [
+        "I2",
+        "29",
+        "PP_SS_17",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_17.wav",
+        "The mom strolled with the kite around the park."
+      ],
+      [
+        "I2",
+        "30",
+        "FILLER_MED_4",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_4.wav",
+        "Where is the keychain that we licked the frosting while slipping on?"
+      ],
+      [
+        "I2",
+        "31",
+        "DECL_ING_see",
+        "DECL_ING",
+        "Stative",
+        "BEFORE",
+        "DECL_ING_see.wav",
+        "The child watched TV before seeing the ballerina."
+      ],
+      [
+        "I2",
+        "32",
+        "Q_ING_find",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_find.wav",
+        "What did the dentist read books after finding?"
+      ],
+      [
+        "I2",
+        "33",
+        "FILLER_BAD_5",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_5.wav",
+        "What does everybody say that Marge saw the books?"
+      ],
+      [
+        "I2",
+        "34",
+        "PP_LL_18 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_18 .wav",
+        "The singer  performed with the microphone  that was wireless after the wedding that was beautiful."
+      ],
+      [
+        "I2",
+        "35",
+        "FILLER_GOOD_4",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_4.wav",
+        "Are all of the children in the room?"
+      ],
+      [
+        "I2",
+        "36",
+        "Q_ING_observe",
+        "Q_ING",
+        "Stative",
+        "BEFORE",
+        "Q_ING_observe.wav",
+        "What did the scientist add chemicals before observing?"
+      ],
+      [
+        "I2",
+        "37",
+        "FILLER_MED_10",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_10.wav",
+        "She wondered whether the customer and not the other manager had heard what they said"
+      ],
+      [
+        "I2",
+        "38",
+        "DECL_ING_help",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_help.wav",
+        "The custodian unlocked the door before helping the manager."
+      ],
+      [
+        "I2",
+        "39",
+        "PP_LS_18",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_18.wav",
+        "The firefighter collapsed against the firetruck that was red after the training."
+      ],
+      [
+        "I2",
+        "40",
+        "FILLER_BAD_6",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_6.wav",
+        "A woman that I ran away."
+      ],
+      [
+        "I2",
+        "41",
+        "Q_ING_win",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_win.wav",
+        "What did the cook practice running before winning?"
+      ],
+      [
+        "I2",
+        "42",
+        "FILLER_GOOD_5",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_5.wav",
+        "Who wants to eat now?"
+      ],
+      [
+        "I2",
+        "43",
+        "PP_LL_19 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_19 .wav",
+        "The star smiled throughout the show that was popular for the camera that was rolling."
+      ],
+      [
+        "I2",
+        "44",
+        "DECL_ING_hear",
+        "DECL_ING",
+        "Stative",
+        "AFTER",
+        "DECL_ING_hear.wav",
+        "The assistant opened YouTube after hearing the singer."
+      ],
+      [
+        "I2",
+        "45",
+        "FILLER_BAD_7",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_7.wav",
+        "The students will studied on those bus?"
+      ],
+      [
+        "I2",
+        "46",
+        "Q_ING_bake",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_bake.wav",
+        "What did the gardener pick berries before baking?"
+      ],
+      [
+        "I2",
+        "47",
+        "PP_SS_18",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_18.wav",
+        "The workers rested under the umbrella after the renovation."
+      ],
+      [
+        "I2",
+        "48",
+        "FILLER_MED_5",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_5.wav",
+        "The wagon fought while a nurse fell on."
+      ],
+      [
+        "I2",
+        "49",
+        "DECL_ING_marry",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_marry.wav",
+        "The manager switched religions before marrying the librarian."
+      ],
+      [
+        "I2",
+        "50",
+        "Q_ING_clean",
+        "Q_ING",
+        "Active",
+        "AFTER",
+        "Q_ING_clean.wav",
+        "What did the actor do laundry after cleaning?"
+      ],
+      [
+        "I2",
+        "51",
+        "FILLER_GOOD_6",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_6.wav",
+        "The manager we all saw wasn't there today."
+      ],
+      [
+        "I2",
+        "52",
+        "PP_SL_18",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_18.wav",
+        "The tourist slept on the bed throughout the evening that was hot."
+      ],
+      [
+        "I2",
+        "53",
+        "FILLER_BAD_8",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_8.wav",
+        "Which child sneezing those field?"
+      ],
+      [
+        "I2",
+        "54",
+        "Q_ING_smell",
+        "Q_ING",
+        "Stative",
+        "AFTER",
+        "Q_ING_smell.wav",
+        "What did the server light candles after smelling?"
+      ],
+      [
+        "I2",
+        "55",
+        "DECL_ING_entertain",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_entertain.wav",
+        "The clown made a face before entertaining the kids."
+      ],
+      [
+        "I2",
+        "56",
+        "PP_SS_19",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_19.wav",
+        "The toddler played with the toy in the morning."
+      ],
+      [
+        "I2",
+        "57",
+        "Q_ING_buy",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_buy.wav",
+        "What did the shopper compare ads before buying?"
+      ],
+      [
+        "I2",
+        "58",
+        "FILLER_MED_6",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_6.wav",
+        "Why did you see the wallet that they desired coins before?"
+      ],
+      [
+        "I2",
+        "59",
+        "PP_SL_19",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_19.wav",
+        "The attorney despaired over the ruling after the hearing that was delayed."
+      ],
+      [
+        "I2",
+        "60",
+        "DECL_ING_remember",
+        "DECL_ING",
+        "Stative",
+        "AFTER",
+        "DECL_ING_remember.wav",
+        "The salesperson took notes after remembering the thief."
+      ],
+      [
+        "I2",
+        "61",
+        "FILLER_BAD_9",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_9.wav",
+        "My tent that I earned money after."
+      ],
+      [
+        "I2",
+        "62",
+        "PP_LS_19",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_19.wav",
+        "The freshman complained about the grade that was low at the library."
+      ],
+      [
+        "I2",
+        "63",
+        "DECL_ING_feed",
+        "DECL_ING",
+        "Active",
+        "BEFORE",
+        "DECL_ING_feed.wav",
+        "The bookkeeper set the table before feeding the boys."
+      ],
+      [
+        "I2",
+        "64",
+        "FILLER_MED_7",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_7.wav",
+        "Who did the woman who she thought went to the artifice before the other day?"
+      ],
+      [
+        "I2",
+        "65",
+        "Q_ING_assist",
+        "Q_ING",
+        "Active",
+        "BEFORE",
+        "Q_ING_assist.wav",
+        "Who did the nurse change sheets before assisting?"
+      ],
+      [
+        "I2",
+        "66",
+        "FILLER_GOOD_7",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_7.wav",
+        "What do you think was on the table yesterday?"
+      ],
+      [
+        "I2",
+        "67",
+        "Q_ING_understand",
+        "Q_ING",
+        "Stative",
+        "BEFORE",
+        "Q_ING_understand.wav",
+        "What did the teacher watch movies before understanding?"
+      ],
+      [
+        "I2",
+        "68",
+        "DECL_ING_meet",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_meet.wav",
+        "The mechanic changed classes after meeting the engineer."
+      ],
+      [
+        "I2",
+        "69",
+        "FILLER_BAD_10",
+        "FILLER_BAD",
+        "N/A",
+        "N/A",
+        "FILLER_BAD_10.wav",
+        "A napkin that it spilled milk before an employer."
+      ],
+      [
+        "I2",
+        "70",
+        "PP_SS_20",
+        "PP_SS",
+        "N/A",
+        "N/A",
+        "PP_SS_20.wav",
+        "The girl climbed onto the tree amid the crowd."
+      ],
+      [
+        "I2",
+        "71",
+        "FILLER_MED_8",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_8.wav",
+        "There is no way to be expected by such a person that would think."
+      ],
+      [
+        "I2",
+        "72",
+        "PP_LL_20 ",
+        "PP_LL",
+        "N/A",
+        "N/A",
+        "PP_LL_20 .wav",
+        "The leader spoke to the audience that was present about the issue that was pressing."
+      ],
+      [
+        "I2",
+        "73",
+        "Q_ING_enjoy",
+        "Q_ING",
+        "Stative",
+        "BEFORE",
+        "Q_ING_enjoy.wav",
+        "What did the musician order dinner before enjoying?"
+      ],
+      [
+        "I2",
+        "74",
+        "FILLER_GOOD_8",
+        "FILLER_GOOD",
+        "N/A",
+        "N/A",
+        "FILLER_GOOD_8.wav",
+        "We don't believe that he was there."
+      ],
+      [
+        "I2",
+        "75",
+        "DECL_ING_contact",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_contact.wav",
+        "The author called the office after contacting the publisher."
+      ],
+      [
+        "I2",
+        "76",
+        "PP_SL_20",
+        "PP_SL",
+        "N/A",
+        "N/A",
+        "PP_SL_20.wav",
+        "The researcher looked through the lens at the sky that was darkening."
+      ],
+      [
+        "I2",
+        "77",
+        "FILLER_MED_9",
+        "FILLER_MED",
+        "N/A",
+        "N/A",
+        "FILLER_MED_9.wav",
+        "The customer mortgaged breakfast"
+      ],
+      [
+        "I2",
+        "78",
+        "DECL_ING_impress",
+        "DECL_ING",
+        "Active",
+        "AFTER",
+        "DECL_ING_impress.wav",
+        "The accountant changed jobs after impressing the CEO."
+      ],
+      [
+        "I2",
+        "79",
+        "PP_LS_20",
+        "PP_LS",
+        "N/A",
+        "N/A",
+        "PP_LS_20.wav",
+        "The comedian hid behind the truck that was old for the prank."
+      ],
+      [
+        "I2",
+        "80",
+        "Q_ING_imagine",
+        "Q_ING",
+        "Stative",
+        "AFTER",
+        "Q_ING_imagine.wav",
+        "What did the receptionist try meditation after imagining?"
+      ]
+    ],
+    "W1": [
+      [
+        "W1",
+        "1",
+        "filler_d_25",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_25.wav",
+        "The violinist donated a violin to the orchestra."
+      ],
+      [
+        "W1",
+        "2",
+        "filler_d_1",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_1.wav",
+        "The children came her house for a party."
+      ],
+      [
+        "W1",
+        "3",
+        "while_arranged_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_arranged_D.wav",
+        "The florist arranged flowers while impressing the gardener."
+      ],
+      [
+        "W1",
+        "4",
+        "filler_q_46",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_46.wav",
+        "When did you see the wallet the kids discovered?"
+      ],
+      [
+        "W1",
+        "5",
+        "while_prepared_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_prepared_D.wav",
+        "The nurse prepared IVs while assisting the doctor."
+      ],
+      [
+        "W1",
+        "6",
+        "filler_d_10",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_10.wav",
+        "The building was taller than the signs was."
+      ],
+      [
+        "W1",
+        "7",
+        "while_changed_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_changed_D.wav",
+        "The man changed diets while dating a new person."
+      ],
+      [
+        "W1",
+        "8",
+        "filler_d_26",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_26.wav",
+        "The professor said that the course contains materials on the colonial period."
+      ],
+      [
+        "W1",
+        "9",
+        "filler_q_15",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_15.wav",
+        "What did the hairdresser drink beer and?"
+      ],
+      [
+        "W1",
+        "10",
+        "while_buy_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_buy_Q.wav",
+        "Who did the son buy gifts while surprising?"
+      ],
+      [
+        "W1",
+        "11",
+        "filler_d_12",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_12.wav",
+        "The position was expected Fred to get."
+      ],
+      [
+        "W1",
+        "12",
+        "while_order_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_order_Q.wav",
+        "What did the friends order tea while eating?"
+      ],
+      [
+        "W1",
+        "13",
+        "filler_q_22",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_22.wav",
+        "Who didn't the boxer why they came?"
+      ],
+      [
+        "W1",
+        "14",
+        "while_compared_D",
+        "D_WHILE",
+        "N/A",
+        "N/A",
+        "while_compared_D.wav",
+        "The shopper compared prices while buying the tablet."
+      ],
+      [
+        "W1",
+        "15",
+        "while_switch_Q  ",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_switch_Q .wav",
+        "Who did the employee switch jobs while upsetting?"
+      ],
+      [
+        "W1",
+        "16",
+        "filler_d_2",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_2.wav",
+        "The roommate explained her the ending of the movie."
+      ],
+      [
+        "W1",
+        "17",
+        "filler_q_38",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_38.wav",
+        "Who made this store as successful as the original one?"
+      ],
+      [
+        "W1",
+        "18",
+        "filler_d_41",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_41.wav",
+        "The wagon flipped and a nurse fell off."
+      ],
+      [
+        "W1",
+        "19",
+        "while_did_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_did_D.wav",
+        "The cleaner did laundry while soaking the stain."
+      ],
+      [
+        "W1",
+        "20",
+        "filler_d_4",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_4.wav",
+        "The fireflies in the backyard seemed sleeping."
+      ],
+      [
+        "W1",
+        "21",
+        "while_conduct_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_conduct_Q.wav",
+        "What did the politician conduct polls while having?"
+      ],
+      [
+        "W1",
+        "22",
+        "filler_q_48",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_48.wav",
+        "Who did the customer exchange breakfast to?"
+      ],
+      [
+        "W1",
+        "23",
+        "while_requested_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_requested_D.wav",
+        "The doctor requested tests while diagnosing the problem."
+      ],
+      [
+        "W1",
+        "24",
+        "filler_q_40",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_40.wav",
+        "Why does everybody say that Marge saw the books?"
+      ],
+      [
+        "W1",
+        "25",
+        "while_watch_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_watch_Q.wav",
+        "What did the librarian watch movies while remembering?"
+      ],
+      [
+        "W1",
+        "26",
+        "filler_d_27",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_27.wav",
+        "The baby spilled milk in front of his mother."
+      ],
+      [
+        "W1",
+        "27",
+        "while_have_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_have_Q.wav",
+        "Who did the musician have dinner while meeting?"
+      ],
+      [
+        "W1",
+        "28",
+        "filler_d_42",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_42.wav",
+        "The keyboard that he touched when looking at cords."
+      ],
+      [
+        "W1",
+        "29",
+        "filler_q_35",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_35.wav",
+        "Where is the keychain that we dropped car while listening to music?"
+      ],
+      [
+        "W1",
+        "30",
+        "while_viewed_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_viewed_D.wav",
+        "The child viewed the show while using her phone."
+      ],
+      [
+        "W1",
+        "31",
+        "filler_q_36",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_36.wav",
+        "Which friends think that Bill should drive into the city?"
+      ],
+      [
+        "W1",
+        "32",
+        "filler_d_31",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_31.wav",
+        "The microphone fell and hit an audience member on the head."
+      ],
+      [
+        "W1",
+        "33",
+        "filler_d_43",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_43.wav",
+        "The motorcycle that we passed after Eli kicked."
+      ],
+      [
+        "W1",
+        "34",
+        "while_make_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_make_Q.wav",
+        "Who did the clown make faces while entertaining?"
+      ],
+      [
+        "W1",
+        "35",
+        "while_opened_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_opened_D.wav",
+        "The teenager opened YouTube while attending a lecture."
+      ],
+      [
+        "W1",
+        "36",
+        "filler_q_17",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_17.wav",
+        "What was there a horse that ran away from?"
+      ],
+      [
+        "W1",
+        "37",
+        "while_picked_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_picked_D.wav",
+        "The gardener picked berries while clearing the weeds."
+      ],
+      [
+        "W1",
+        "38",
+        "filler_d_44",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_44.wav",
+        "There is no expectation by such a person that would think that."
+      ],
+      [
+        "W1",
+        "39",
+        "while_call_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_call_Q.wav",
+        "What did the author call home while reading?"
+      ],
+      [
+        "W1",
+        "40",
+        "filler_d_8",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_8.wav",
+        "The relative sent there a package addressed to her son."
+      ],
+      [
+        "W1",
+        "41",
+        "filler_q_30",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_30.wav",
+        "Who are all of the school children in the classroom?"
+      ],
+      [
+        "W1",
+        "42",
+        "while_burned_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_burned_D.wav",
+        "The server burned candles while smelling the scent."
+      ],
+      [
+        "W1",
+        "43",
+        "filler_d_6",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_6.wav",
+        "The afraid pet stayed in their room."
+      ],
+      [
+        "W1",
+        "44",
+        "while_play_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_play_Q.wav",
+        "Who did the owner play music while seating?"
+      ],
+      [
+        "W1",
+        "45",
+        "filler_q_20",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_20.wav",
+        "Who didn't she care why called?"
+      ],
+      [
+        "W1",
+        "46",
+        "filler_d_11",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_11.wav",
+        "The freshman was eager to read quickly the book."
+      ],
+      [
+        "W1",
+        "47",
+        "filler_q_37",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_37.wav",
+        "Who closed the window that Maria was looking through?"
+      ],
+      [
+        "W1",
+        "48",
+        "while_ran_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_ran_D.wav",
+        "The coach ran practice while timing the athletes."
+      ],
+      [
+        "W1",
+        "49",
+        "filler_q_23",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_23.wav",
+        "Who do you like the poem that wrote?"
+      ],
+      [
+        "W1",
+        "50",
+        "filler_d_33",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_33.wav",
+        "We don't believe that he was there."
+      ],
+      [
+        "W1",
+        "51",
+        "while_unlock_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_unlock_Q.wav",
+        "Who did the custodian unlock the door while admitting?"
+      ],
+      [
+        "W1",
+        "52",
+        "filler_d_7",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_7.wav",
+        "The soccer player kicked hard the ball across the yard."
+      ],
+      [
+        "W1",
+        "53",
+        "while_add_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_add_Q.wav",
+        "Who did the scientist add chemicals while observing?"
+      ],
+      [
+        "W1",
+        "54",
+        "filler_d_9",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_9.wav",
+        "The chef shared the hamburger to Brad."
+      ],
+      [
+        "W1",
+        "55",
+        "filler_q_19",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_19.wav",
+        "Who did Anna tell Sam that wrote books?"
+      ],
+      [
+        "W1",
+        "56",
+        "while_set_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_set_D.wav",
+        "The hostess set the table while seating the boys."
+      ],
+      [
+        "W1",
+        "57",
+        "filler_q_34",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_34.wav",
+        "What do you think was on the table yesterday?"
+      ],
+      [
+        "W1",
+        "58",
+        "filler_q_18",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_18.wav",
+        "Which elderly did you invite woman to the party?"
+      ],
+      [
+        "W1",
+        "59",
+        "filler_d_28",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_28.wav",
+        "The person was someone that I ran away from."
+      ],
+      [
+        "W1",
+        "60",
+        "while_read_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_read_Q.wav",
+        "What did the mother read books while drinking?"
+      ],
+      [
+        "W1",
+        "61",
+        "filler_q_21",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_21.wav",
+        "Who was she going to invite him if he apologized to?"
+      ],
+      [
+        "W1",
+        "62",
+        "while_found_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_found_D.wav",
+        "The grandmother found gifts while scanning the isles."
+      ],
+      [
+        "W1",
+        "63",
+        "filler_d_32",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_32.wav",
+        "The manager we all saw wasn't there today."
+      ],
+      [
+        "W1",
+        "64",
+        "filler_q_13",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_13.wav",
+        "What did Seth bake a cake and sell?"
+      ],
+      [
+        "W1",
+        "65",
+        "filler_d_29",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_29.wav",
+        "The worker wondered whether the customer had heard what she said."
+      ],
+      [
+        "W1",
+        "66",
+        "while_purchase_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_purchase_Q.wav",
+        "What did the father purchased groceries while planning?"
+      ],
+      [
+        "W1",
+        "67",
+        "filler_q_16",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_16.wav",
+        "What did the students eat sandwiches after watching?"
+      ],
+      [
+        "W1",
+        "68",
+        "while_tried_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_tried_D.wav",
+        "The woman tried meditation while imagining the beach."
+      ],
+      [
+        "W1",
+        "69",
+        "filler_q_47",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_47.wav",
+        "Who took over a company before the employee could drove?"
+      ],
+      [
+        "W1",
+        "70",
+        "filler_q_24",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_24.wav",
+        "Who did Zach invite his friends before studying for the test?"
+      ],
+      [
+        "W1",
+        "71",
+        "while_lit_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_lit_D.wav",
+        "The student lit sparklers while enchanting the audience."
+      ],
+      [
+        "W1",
+        "72",
+        "filler_d_3",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_3.wav",
+        "The entertainer forced that the show would close."
+      ],
+      [
+        "W1",
+        "73",
+        "while_clear_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_clear_Q.wav",
+        "Who did the grandfather clear his throat while interrupting?"
+      ],
+      [
+        "W1",
+        "74",
+        "filler_q_39",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_39.wav",
+        "Who wants to eat breakfast together tomorrow morning?"
+      ],
+      [
+        "W1",
+        "75",
+        "while_won_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_won_D.wav",
+        "The driver won races while paying the crew."
+      ],
+      [
+        "W1",
+        "76",
+        "filler_q_14",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_14.wav",
+        "What did she wonder whether the bottle would crack?"
+      ],
+      [
+        "W1",
+        "77",
+        "while_drink_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_drink_Q.wav",
+        "Who did the comedian drink beer while fearing?"
+      ],
+      [
+        "W1",
+        "78",
+        "filler_d_5",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_5.wav",
+        "The band marched the stairs up in a hurry."
+      ],
+      [
+        "W1",
+        "79",
+        "filler_q_45",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_45.wav",
+        "What did the woman who she thought went to the park say?"
+      ]
+    ],
+    "W2": [
+      [
+        "W2",
+        "1",
+        "filler_d_25",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_25.wav",
+        "The violinist donated a violin to the orchestra."
+      ],
+      [
+        "W2",
+        "2",
+        "filler_d_1",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_1.wav",
+        "The children came her house for a party."
+      ],
+      [
+        "W2",
+        "3",
+        "while_bought_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_bought_D.wav",
+        "The son bought gifts while surprising his family."
+      ],
+      [
+        "W2",
+        "4",
+        "filler_q_46",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_46.wav",
+        "When did you see the wallet the kids discovered?"
+      ],
+      [
+        "W2",
+        "5",
+        "while_had_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_had_D.wav",
+        "The musician had dinner while meeting the conductor."
+      ],
+      [
+        "W2",
+        "6",
+        "filler_d_10",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_10.wav",
+        "The building was taller than the signs was."
+      ],
+      [
+        "W2",
+        "7",
+        "while_arrange_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_arrange_Q.wav",
+        "Who did the florist arrange flowers while impressing?"
+      ],
+      [
+        "W2",
+        "8",
+        "filler_d_26",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_26.wav",
+        "The professor said that the course contains materials on the colonial period."
+      ],
+      [
+        "W2",
+        "9",
+        "filler_q_15",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_15.wav",
+        "What did the hairdresser drink beer and?"
+      ],
+      [
+        "W2",
+        "10",
+        "while_purchased_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_purchased_D.wav",
+        "The father purchased groceries while planning the meals."
+      ],
+      [
+        "W2",
+        "11",
+        "filler_d_12",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_12.wav",
+        "The position was expected Fred to get."
+      ],
+      [
+        "W2",
+        "12",
+        "while_burn_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_burn_Q.wav",
+        "What did the server burn candles while smelling?"
+      ],
+      [
+        "W2",
+        "13",
+        "filler_q_22",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_22.wav",
+        "Who didn't the boxer why they came?"
+      ],
+      [
+        "W2",
+        "14",
+        "while_read_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_read_D.wav",
+        "The mother read books while drinking coffee."
+      ],
+      [
+        "W2",
+        "15",
+        "while_win_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_win_Q.wav",
+        "Who did the driver win races while paying?"
+      ],
+      [
+        "W2",
+        "16",
+        "filler_d_2",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_2.wav",
+        "The roommate explained her the ending of the movie."
+      ],
+      [
+        "W2",
+        "17",
+        "filler_q_38",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_38.wav",
+        "Who made this store as successful as the original one?"
+      ],
+      [
+        "W2",
+        "18",
+        "filler_d_41",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_41.wav",
+        "The wagon flipped and a nurse fell off."
+      ],
+      [
+        "W2",
+        "19",
+        "while_added_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_added_D.wav",
+        "The scientist added chemicals while observing the intern."
+      ],
+      [
+        "W2",
+        "20",
+        "filler_d_4",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_4.wav",
+        "The fireflies in the backyard seemed sleeping."
+      ],
+      [
+        "W2",
+        "21",
+        "while_change_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_change_Q.wav",
+        "Who did the man change diets while dating?"
+      ],
+      [
+        "W2",
+        "22",
+        "filler_q_48",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_48.wav",
+        "Who did the customer exchange breakfast to?"
+      ],
+      [
+        "W2",
+        "23",
+        "while_unlock_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_unlock_D.wav",
+        "The custodian unlocked the door while admitting the manager."
+      ],
+      [
+        "W2",
+        "24",
+        "filler_q_40",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_40.wav",
+        "Why does everybody say that Marge saw the books?"
+      ],
+      [
+        "W2",
+        "25",
+        "while_light_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_light_Q.wav",
+        "Who did the student light sparklers while enchanting?"
+      ],
+      [
+        "W2",
+        "26",
+        "filler_d_27",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_27.wav",
+        "The baby spilled milk in front of his mother."
+      ],
+      [
+        "W2",
+        "27",
+        "while_set_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_set_Q.wav",
+        "Who did the hostess set the table while seating?"
+      ],
+      [
+        "W2",
+        "28",
+        "filler_d_42",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_42.wav",
+        "The keyboard that he touched when looking at cords."
+      ],
+      [
+        "W2",
+        "29",
+        "filler_q_35",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_35.wav",
+        "Where is the keychain that we dropped car while listening to music?"
+      ],
+      [
+        "W2",
+        "30",
+        "while_made_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_made_D.wav",
+        "The clown made faces while entertaining the kids."
+      ],
+      [
+        "W2",
+        "31",
+        "filler_q_36",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_36.wav",
+        "Which friends think that Bill should drive into the city?"
+      ],
+      [
+        "W2",
+        "32",
+        "filler_d_31",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_31.wav",
+        "The microphone fell and hit an audience member on the head."
+      ],
+      [
+        "W2",
+        "33",
+        "filler_d_43",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_43.wav",
+        "The motorcycle that we passed after Eli kicked."
+      ],
+      [
+        "W2",
+        "34",
+        "while_pick_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_pick_Q.wav",
+        "What did the gardener pick berries while clearing?"
+      ],
+      [
+        "W2",
+        "35",
+        "while_ordered_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_ordered_D.wav",
+        "The friends ordered tea while eating lunch."
+      ],
+      [
+        "W2",
+        "36",
+        "filler_q_17",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_17.wav",
+        "What was there a horse that ran away from?"
+      ],
+      [
+        "W2",
+        "37",
+        "while_called_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_called_D.wav",
+        "The author called home while reading the e-mail."
+      ],
+      [
+        "W2",
+        "38",
+        "filler_d_44",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_44.wav",
+        "There is no expectation by such a person that would think that."
+      ],
+      [
+        "W2",
+        "39",
+        "while_compare_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_compare_Q.wav",
+        "What did the shopper compare prices while buying?"
+      ],
+      [
+        "W2",
+        "40",
+        "filler_d_8",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_8.wav",
+        "The relative sent there a package addressed to her son."
+      ],
+      [
+        "W2",
+        "41",
+        "filler_q_30",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_30.wav",
+        "Who are all of the school children in the classroom?"
+      ],
+      [
+        "W2",
+        "42",
+        "while_drank_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_drank_D.wav",
+        "The comedian drank beer while fearing the crowd."
+      ],
+      [
+        "W2",
+        "43",
+        "filler_d_6",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_6.wav",
+        "The afraid pet stayed in their room."
+      ],
+      [
+        "W2",
+        "44",
+        "while_view_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_view_Q.wav",
+        "What did the child view the show while using?"
+      ],
+      [
+        "W2",
+        "45",
+        "filler_q_20",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_20.wav",
+        "Who didn't she care why called?"
+      ],
+      [
+        "W2",
+        "46",
+        "filler_d_11",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_11.wav",
+        "The freshman was eager to read quickly the book."
+      ],
+      [
+        "W2",
+        "47",
+        "filler_q_37",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_37.wav",
+        "Who closed the window that Maria was looking through?"
+      ],
+      [
+        "W2",
+        "48",
+        "while_played_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_played_D.wav",
+        "The owner played music while seating the guests."
+      ],
+      [
+        "W2",
+        "49",
+        "filler_q_23",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_23.wav",
+        "Who do you like the poem that wrote?"
+      ],
+      [
+        "W2",
+        "50",
+        "filler_d_33",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_33.wav",
+        "We don't believe that he was there."
+      ],
+      [
+        "W2",
+        "51",
+        "while_find_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_find_Q.wav",
+        "What did the grandmother find gifts while scanning?"
+      ],
+      [
+        "W2",
+        "52",
+        "filler_d_7",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_7.wav",
+        "The soccer player kicked hard the ball across the yard."
+      ],
+      [
+        "W2",
+        "53",
+        "while_do_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_do_Q.wav",
+        "What did the cleaner do laundry while soaking?"
+      ],
+      [
+        "W2",
+        "54",
+        "filler_d_9",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_9.wav",
+        "The chef shared the hamburger to Brad."
+      ],
+      [
+        "W2",
+        "55",
+        "filler_q_19",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_19.wav",
+        "Who did Anna tell Sam that wrote books?"
+      ],
+      [
+        "W2",
+        "56",
+        "while_cleared_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_cleared_D.wav",
+        "The grandfather cleared his throat while interrupting the speaker."
+      ],
+      [
+        "W2",
+        "57",
+        "filler_q_34",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_34.wav",
+        "What do you think was on the table yesterday?"
+      ],
+      [
+        "W2",
+        "58",
+        "filler_q_18",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_18.wav",
+        "Which elderly did you invite woman to the party?"
+      ],
+      [
+        "W2",
+        "59",
+        "filler_d_28",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_28.wav",
+        "The person was someone that I ran away from."
+      ],
+      [
+        "W2",
+        "60",
+        "while_try_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_try_Q.wav",
+        "What did the woman try meditation while imagining?"
+      ],
+      [
+        "W2",
+        "61",
+        "filler_q_21",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_21.wav",
+        "Who was she going to invite him if he apologized to?"
+      ],
+      [
+        "W2",
+        "62",
+        "while_watched_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_watched_D.wav",
+        "The librarian watched movies while remembering the books."
+      ],
+      [
+        "W2",
+        "63",
+        "filler_d_32",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_32.wav",
+        "The manager we all saw wasn't there today."
+      ],
+      [
+        "W2",
+        "64",
+        "filler_q_13",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_13.wav",
+        "What did Seth bake a cake and sell?"
+      ],
+      [
+        "W2",
+        "65",
+        "filler_d_29",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_29.wav",
+        "The worker wondered whether the customer had heard what she said."
+      ],
+      [
+        "W2",
+        "66",
+        "while_run_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_run_Q.wav",
+        "Who did the coach run practice while timing?"
+      ],
+      [
+        "W2",
+        "67",
+        "filler_q_16",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_16.wav",
+        "What did the students eat sandwiches after watching?"
+      ],
+      [
+        "W2",
+        "68",
+        "while_revised_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_revised_D.wav",
+        "The teacher revised the slides while giving a lecture."
+      ],
+      [
+        "W2",
+        "69",
+        "filler_q_47",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_47.wav",
+        "Who took over a company before the employee could drove?"
+      ],
+      [
+        "W2",
+        "70",
+        "filler_q_24",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_24.wav",
+        "Who did Zach invite his friends before studying for the test?"
+      ],
+      [
+        "W2",
+        "71",
+        "while_switched_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_switched_D.wav",
+        "The employee switched jobs while upsetting the CEO."
+      ],
+      [
+        "W2",
+        "72",
+        "filler_d_3",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_3.wav",
+        "The entertainer forced that the show would close."
+      ],
+      [
+        "W2",
+        "73",
+        "while_open_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_open_Q.wav",
+        "What did the teenager open YouTube while attending?"
+      ],
+      [
+        "W2",
+        "74",
+        "filler_q_39",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_39.wav",
+        "Who wants to eat breakfast together tomorrow morning?"
+      ],
+      [
+        "W2",
+        "75",
+        "while_conducted_D",
+        "DECL_WHILE",
+        "N/A",
+        "N/A",
+        "while_conducted_D.wav",
+        "The politician conducted polls while having a plan."
+      ],
+      [
+        "W2",
+        "76",
+        "filler_q_14",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_14.wav",
+        "What did she wonder whether the bottle would crack?"
+      ],
+      [
+        "W2",
+        "77",
+        "while_request_Q",
+        "Q_WHILE",
+        "N/A",
+        "N/A",
+        "while_request_Q.wav",
+        "What did the doctor request tests while diagnosing?"
+      ],
+      [
+        "W2",
+        "78",
+        "filler_d_5",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_d_5.wav",
+        "The band marched the stairs up in a hurry."
+      ],
+      [
+        "W2",
+        "79",
+        "filler_q_45",
+        "FILLER",
+        "N/A",
+        "N/A",
+        "filler_q_45.wav",
+        "What did the woman who she thought went to the park say?"
+      ]
+    ]
+  },
+  "versions": [
+    "T1",
+    "T2",
+    "I1",
+    "I2",
+    "W1",
+    "W2"
+  ]
+}
